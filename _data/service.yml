@@ -2,10 +2,14 @@
 - service: Ad Hoc Reviewer
   organization1: Water Resources Research
   year1: 2020, 2021
-  organization2: International Journal of Greenhouse Gas Control
-  year2: 2017
-  organization3: Stochastic Environmental Research and Risk Assessment
-  year3: 2010
+  organization2: Physical Review Fluids
+  year2: 2021
+  organization3: Hydrogeology Journal
+  year3: 2021
+  organization4: International Journal of Greenhouse Gas Control
+  year4: 2017
+  organization5: Stochastic Environmental Research and Risk Assessment
+  year5: 2010
   # summary: $60,000
 
 - service: Training Seminar Speaker
