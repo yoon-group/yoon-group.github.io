@@ -153,7 +153,7 @@ resume_contact_telephone:       "555-7334"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 
-resume_header_contact_info:     "<p> Department of Earth and Environmental Sciences, University of Minnesota, Twin Cites <br>116 Church Street SE, Ste 372, Minneapolis, MN 55455<br> email: <a href=mailto:yoonx213@umn.edu>yoonx213@umn.edu</a> | homepage: <a href=/>https://seonkyoo.github.io</a> </p>"
+resume_header_contact_info:     "<p> Department of Earth and Environmental Sciences, University of Minnesota, Twin Cities <br>116 Church Street SE, Ste 372, Minneapolis, MN 55455<br> email: <a href=mailto:yoonx213@umn.edu>yoonx213@umn.edu</a> | homepage: <a href=/>https://seonkyoo.github.io</a> </p>"
 display_header_contact_info:    "true"
 
 # resume_header_intro: "<p> Department of Earth and Environmental Sciences <br> University of Minnesota, Twin Cites <br>116 Church Street SE, Tate Hall 372<br>Minneapolis, MN 55455<br> email: <a href=mailto:yoonx213@umn.edu>yoonx213@umn.edu</a> <br> homepage: <a href=/>https://seonkyoo.github.io</a> </p>"
