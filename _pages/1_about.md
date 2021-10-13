@@ -9,7 +9,7 @@ profile:
   align: right
   image: yoonProf.jpg
   address: >
-    <p>Tate Hall, 372</p>
+    <p>Tate Hall, 150</p>
     <p>116 Church Street SE</p>
     <p>Minneapolis, MN 55455</p>
 
