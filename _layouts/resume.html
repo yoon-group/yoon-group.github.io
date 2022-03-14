@@ -297,7 +297,11 @@
             <h4 class="resume-item-details">{{ service.organization5 }} &bull; {{ service.year5 }}</h4>
           {% endif %}
 
-          <p class="resume-item-copy">{{ service.summary }}</p>
+          {% if service.organization6 %}
+            <h4 class="resume-item-details">{{ service.organization6 }} &bull; {{ service.year6 }}</h4>
+          {% endif %}
+
+         <p class="resume-item-copy">{{ service.summary }}</p>
 
         </div>
         {% endfor %}
