@@ -18,7 +18,7 @@ social: false
 ---
 
 
-I am a post-doctoral associate in the Department of Earth and Environmental Sciences at the University of Minnesota, Twin Cities. I earned my Ph.D in 2016 from the Dept. of Civil and Environmental Engineering at Massachusetts Institute of Technology. 
+I am a post-doctoral associate in the Department of Earth and Environmental Sciences at the University of Minnesota, Twin Cities. I earned my Ph.D in 2016 from the Department of Civil and Environmental Engineering at Massachusetts Institute of Technology. 
 <!-- I also hold a B.S. and M.S. in Civil Engineering from Yonsei University (South Korea).  -->
 My Ph.D. thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters. 
 
