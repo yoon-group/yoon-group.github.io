@@ -26,7 +26,7 @@ My Ph.D. thesis was on developing computationally efficient subsurface flow mode
 
 <!-- My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems.  -->
 
-My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and predictive capability of hydrogeological systems. I combine theoretical and computational approaches such as extreme value theory, fractals, Bayesian analysis, stochastic modeling, machine learning, and computational fluid dynamics. 
+My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and predictive capability of hydrogeological systems across scales. I combine theoretical, computational, experimental, and field-based approaches to studying flow and reactive transport in porous and fractured media. I also develop data assimilation and machine learning techniques for subsurface characterization and source identification. 
 
 
 
