@@ -5,22 +5,32 @@ permalink: /research/
 description: 
 ---
 
-My research centers on the interface between physical and data sciences, aiming at improving fundamental understanding and characterizing uncertainty of flow, transport, and reaction in hydrological systems. The schematic figure below shows two directions of my research: forward problems and inverse problems.
-<div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/forward_inverse.jpg">
-</div>
+My research centers on the integration of physical and data sciences, aiming at improving our fundamental understanding and predictive capability of hydrogeological systems. In particular, I am focusing on the process of flow, transport, mixing, and reaction in porous and fractured media across scales. My overarching research question is: "How will small-scale flow & transport processes impact large-sclae ones?" To tackle the question, I combine theoretical, computational, experimental, and field-based approaches. 
 
-I combine theoretical and computational approaches such as fluid dynamics, extreme value theory, Bayesian analysis, fractals, stochastic modeling, deep learning, and computational fluid mechanics. 
+<center><img src="/assets/img/scaleBridging.gif" alt="drawing" width="100%"/></center>
 
+<br/>
 
-My specific research topics include:
+I also develop data assimilation and machine learning techniques for subsurface characterization and source identification. The below image shows an application of data assimilation that identify the location of multiple contaminant sources by assimilating monitoring well data.
+
+<br/>
+<center><img src="/assets/img/sourceID.gif" alt="drawing" width="70%"/></center>
+   
+<br/>
+
+Generally speaking, my research can be classified as either forward or inverse problems as described in the schematic below. In forward direction, I investigate how a physical state determines the response of hydrogeologic systems, such as the effects of fracture-matrix interaction on mass transport. In inverse direction, I utilize observed responses of a hydrogeologic system to inversely estimate the uncertain physical state that leads to the observed response.
+ 
+<center><img src="/assets/img/forward_inverse.jpg" alt="drawing" width="90%"/></center>
+
+<br/>
+
+My current specific research topics include:
 <ul>
-    <li>groundwater flow</li>
-    <li>non-Fickian mass transport in hydrogeologic systems</li>
-    <li>mixing and reaction</li>
-    <li>data assimilation</li>
-    <li>physics-informed machine learning</li>
-    <li>risk assessment</li>
+    <li>Non-Fickian solute transport in Platteville limestone formation</li>
+    <li>Stochastic upscaling for non-Fickian transport</li>
+    <li>Data assimilation for source identification</li>
+    <li>Machine learning-assisted identification of main controlling factor</li>
+    <li>Groundwater-subsurface water interaction at stream bed with vegetation</li>
 </ul>
 
 
