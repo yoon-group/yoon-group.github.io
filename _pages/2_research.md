@@ -13,8 +13,7 @@ My research centers on the integration of physical and data sciences, aiming at 
 
 I also develop data assimilation and machine learning techniques for subsurface characterization and source identification. The below image shows an application of data assimilation that identify the location of multiple contaminant sources by assimilating monitoring well data.
 
-<br/>
-<center><img src="/assets/img/sourceID.gif" alt="drawing" width="70%"/></center>
+<center><img src="/assets/img/sourceID.gif" alt="drawing" width="90%"/></center>
    
 <br/>
 
