@@ -281,6 +281,7 @@
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ service.service }}</h3>
           <h4 class="resume-item-details">{{ service.organization1 }} </h4>
+
           {% if service.organization2 %}
             <h4 class="resume-item-details">{{ service.organization2 }} </h4>
           {% endif %}
@@ -300,6 +301,15 @@
           {% if service.organization6 %}
             <h4 class="resume-item-details">{{ service.organization6 }} </h4>
           {% endif %}
+
+          {% if service.organization7 %}
+            <h4 class="resume-item-details">{{ service.organization6 }} </h4>
+          {% endif %}
+
+          {% if service.organization8 %}
+            <h4 class="resume-item-details">{{ service.organization6 }} </h4>
+          {% endif %}
+
 
          <p class="resume-item-copy">{{ service.summary }}</p>
 
