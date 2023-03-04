@@ -1,12 +1,5 @@
 # Publications
 
-- year: Submitted
-  title: "Effects of dead-end fractures on non-Fickian transport in three-dimensional discrete fracture networks"
-  journal: <i>Journal of Geophysical Research - Solid Earth</i>,
-  volume: 
-  page: 
-  authors: <ins>Yoon, S.</ins>, Hyman, J. D., Han, W. S., & Kang, P. K.
-
 - year: In Prep.
   title: "Machine learning-assisted identification of structural properties controlling transport in fracture networks"
   journal: <i>Water Resources Research</i>,
@@ -14,12 +7,27 @@
   page: 
   authors: <ins>Yoon, S.</ins>, Hyman, J. D., & Kang, P. K.
 
-- year: In Prep.
-  title: Gravity-driven instability in fracture flows with miscible fluids of different densities
-  journal: <i>Physical Review Fluids</i>,
+- year: Submitted
+  title: Emergence of unstable focused focused flow induced by variable-density flows in vertical fractures
+  journal: <i>Water Resources Research</i>,
   volume: 
   page: 
   authors: Cao, H., <ins>Yoon, S.</ins>, Xu, Z., Pyrak-Nolte, L., Breciani, E., & Kang, P. K.
+
+- year: Submitted
+  title: Gravity-Driven controls on fluid and carbonate precipitation distributions in fractures
+  journal: <i>Scientific Reports</i>,
+  volume: 
+  page: 
+  authors: Xu, Z., Cao, H., <ins>Yoon, S.</ins>, Kang, P. K., Jun, Y.-S., Kneafsey, T., Sheets, J. M., Cole, D., & Pyrak-Nolte
+
+
+- year: Submitted
+  title: "Effects of dead-end fractures on non-Fickian transport in three-dimensional discrete fracture networks"
+  journal: <i>Journal of Geophysical Research - Solid Earth</i>,
+  volume: 
+  page: 
+  authors: <ins>Yoon, S.</ins>, Hyman, J. D., Han, W. S., & Kang, P. K.
 
 - year: Submitted
   title: Inertia and diffusion effects on bimolecular reactive transport with fluid-solid reactions in rough channel flows
@@ -35,7 +43,7 @@
   page: 
   authors: Wang, L., <ins>Yoon, S.</ins>, Zheng, L., Wang, T., Chen, X., Kang, P. K.
 
-- year: 2022 
+- year: 2023 
   title: "Inverse estimation of multiple contaminant sources in three-dimensional heterogeneous aquifers with variable-density flows"
   journal: <i>Journal of Hydrology</i>.
   volume: 
@@ -48,13 +56,6 @@
   volume: "614,"
   page: "Part A"
   authors: Lee, J., Han, W. S., Kang, P. K., <ins>Yoon, S.</ins>, Choung, S., Hwang, J., Shin, J.
-
-- year: In Prep.
-  title: Gravity-driven reactive miscible fluid mixing in a fracture
-  journal: <i>Physical Review Fluids</i>,
-  volume: 
-  page: 
-  authors: Xu, Z., Cao, H., <ins>Yoon, S.</ins>, Kang, P. K., Jun, Y.-S., Kneafsey, T., Cole, D., & Pyrak-Nolte, L.
 
 
 - year: 2021
