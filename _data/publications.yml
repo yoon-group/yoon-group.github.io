@@ -8,7 +8,7 @@
   authors: <ins>Yoon, S.</ins>, Hyman, J. D., & Kang, P. K.
 
 - year: Submitted
-  title: Emergence of unstable focused focused flow induced by variable-density flows in vertical fractures
+  title: Emergence of unstable focused flow induced by variable-density flows in vertical fractures
   journal: <i>Water Resources Research</i>,
   volume: 
   page: 
@@ -30,18 +30,18 @@
   authors: <ins>Yoon, S.</ins>, Hyman, J. D., Han, W. S., & Kang, P. K.
 
 - year: Submitted
-  title: Inertia and diffusion effects on bimolecular reactive transport with fluid-solid reactions in rough channel flows
-  journal: <i>Advances in Water Resources</i>,
-  volume: 
-  page: 
-  authors: Lee, W., <ins>Yoon, S.</ins>, & Kang, P. K.
-
-- year: Submitted
   title: Flux exchange between fracture and matrix dictates late-time tracer tailing
   journal: <i>Water Resources Research</i>,
   volume: 
   page: 
   authors: Wang, L., <ins>Yoon, S.</ins>, Zheng, L., Wang, T., Chen, X., Kang, P. K.
+
+- year: 2023 
+  title: Inertia and diffusion effects on bimolecular reactive transport with fluid-solid reactions in rough channel flows
+  journal: <i>Physical Review Fluids</i>.
+  volume: 
+  page: 
+  authors: Lee, W., <ins>Yoon, S.</ins>, & Kang, P. K.
 
 - year: 2023 
   title: "Inverse estimation of multiple contaminant sources in three-dimensional heterogeneous aquifers with variable-density flows"
