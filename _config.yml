@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Seonkyoo Yoon
+title: Seonkyoo (Sean) Yoon
 email: yoonx213@umn.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -142,7 +142,7 @@ sass:
   style: compressed
 
 resume_avatar:                  "false"
-resume_name:                    "Seonkyoo Yoon"
+resume_name:                    "Seonkyoo (Sean) Yoon"
 resume_title:                   "Ph.D. Hydrology"
 
 # used for the contact button in _layouts/resume.html

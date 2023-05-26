@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Seonkyoo </strong> Yoon  
+title: Seonkyoo <strong>(Sean)</strong> Yoon 
 description: Ph.D. <a href="https://en.wikipedia.org/wiki/Hydrogeology" target="_blank" >Hydrogeology</a>, <a href="mailto:yoonx213@umn.edu"><i class="fas fa-envelope"></i></a> <!-- . Address. Contacts. Moto. Etc. -->
 
 
