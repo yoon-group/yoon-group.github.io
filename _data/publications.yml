@@ -15,14 +15,6 @@
   authors: Cao, H., <ins>Yoon, S.</ins>, Xu, Z., Pyrak-Nolte, L., Breciani, E., & Kang, P. K.
 
 - year: Submitted
-  title: Gravity-Driven controls on fluid and carbonate precipitation distributions in fractures
-  journal: <i>Scientific Reports</i>,
-  volume: 
-  page: 
-  authors: Xu, Z., Cao, H., <ins>Yoon, S.</ins>, Kang, P. K., Jun, Y.-S., Kneafsey, T., Sheets, J. M., Cole, D., & Pyrak-Nolte, L.
-
-
-- year: Submitted
   title: "Effects of dead-end fractures on non-Fickian transport in three-dimensional discrete fracture networks"
   journal: <i>Journal of Geophysical Research - Solid Earth</i>,
   volume: 
@@ -35,6 +27,13 @@
   volume: 
   page: 
   authors: Wang, L., <ins>Yoon, S.</ins>, Zheng, L., Wang, T., Chen, X., Kang, P. K.
+
+- year: 2023 
+  title: Gravity-Driven controls on fluid and carbonate precipitation distributions in fractures
+  journal: <i>Scientific Reports</i>,
+  volume: 
+  page: 
+  authors: Xu, Z., Cao, H., <ins>Yoon, S.</ins>, Kang, P. K., Jun, Y.-S., Kneafsey, T., Sheets, J. M., Cole, D., & Pyrak-Nolte, L.
 
 - year: 2023 
   title: Inertia and diffusion effects on bimolecular reactive transport with fluid-solid reactions in rough fracture flows

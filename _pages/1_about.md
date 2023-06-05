@@ -28,6 +28,7 @@ My Ph.D. thesis was on developing computationally efficient subsurface flow mode
 
 My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and predictive capability of hydrogeological systems across scales. I combine theoretical, computational, experimental, and field-based approaches to studying flow and reactive transport in porous and fractured media. I also develop data assimilation and machine learning techniques for subsurface characterization and source identification. 
 
+Starting in January 2024, I will be joining the Department of Geological Sciences at the University of Florida as an assistant professor. I am searching for a motivated post-doctoral associate and a Ph.D. student who possess a strong interest in investigating flow and reactive transport phenomena within porous and fractured media. If your research interests align with these topics,  I warmly invite you to send me your CV to explore potential collaborations and opportunities. 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
