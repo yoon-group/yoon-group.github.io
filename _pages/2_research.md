@@ -28,8 +28,8 @@ My current specific research topics include:
     <li>Non-Fickian solute transport in Platteville limestone formation</li>
     <li>Stochastic upscaling for non-Fickian transport</li>
     <li>Data assimilation for source identification</li>
-    <li>Machine learning-assisted identification of main controlling factor</li>
-    <li>Groundwater-subsurface water interaction at stream bed with vegetation</li>
+    <li>Machine learning-assisted identification of anomalous transport mechanism</li>
+    <li>Groundwater-surface water interaction at stream bed with vegetation</li>
 </ul>
 
 
