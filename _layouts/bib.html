@@ -50,25 +50,29 @@
 
     <span class="periodical">
     {% if entry.type == "article" %}
-      <em>{{entry.journal}}</em>
+      {% if entry.html %}
+        <a href="{{ entry.html }}" style="color: #607BFF" target="_blank"><em>{{entry.journal}}</em></a> 
+      {% else %}
+        <em>{{entry.journal}}</em>
+      {% endif %}
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}}</em>
     {% endif %}
-    {% if entry.year %}
+    <!--{% if entry.year %}
       {{entry.year}}
-    {% endif %}
+    {% endif %}-->
     </span>
   {% endif %}
 
   <span class="links">
   {% if entry.abstract %}
-    [<a class="abstract">Abs</a>]
+    <!--[<a class="abstract">Abs</a>]-->
   {% endif %}
   {% if entry.arxiv %}
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
   {% if entry.html %}
-    [<a href="{{ entry.html }}" target="_blank">HTML</a>]
+    <!--[<a href="{{ entry.html }}" target="_blank">link</a>]-->
   {% endif %}
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]

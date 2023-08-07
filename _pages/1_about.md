@@ -7,11 +7,12 @@ description: Ph.D. <a href="https://en.wikipedia.org/wiki/Hydrogeology" target="
 
 profile:
   align: right
-  image: yoonProf.jpg
-  address: >
+  <!--image: yoonProf.jpg-->
+  image: thumbnail_Yoon.jpg
+  <!--address: >
     <p>Tate Hall, 150</p>
     <p>116 Church Street SE</p>
-    <p>Minneapolis, MN 55455</p>
+    <p>Minneapolis, MN 55455</p>-->
 
 news: true
 social: false
