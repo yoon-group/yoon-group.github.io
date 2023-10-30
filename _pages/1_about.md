@@ -1,9 +1,8 @@
 ---
 layout: about
 permalink: /
-title: Seonkyoo <strong>(Sean)</strong> Yoon 
-description: Ph.D. <a href="https://en.wikipedia.org/wiki/Hydrogeology" target="_blank" >Hydrogeology</a>, <a href="mailto:yoonx213@umn.edu"><i class="fas fa-envelope"></i></a> <!-- . Address. Contacts. Moto. Etc. -->
-
+title: Seonkyoo (<strong>Sean</strong>) Yoon 
+description: Ph.D. in Hydrology
 
 profile:
   align: right
@@ -18,19 +17,15 @@ news: true
 social: false
 ---
 
-
 I am a post-doctoral associate in the Department of Earth and Environmental Sciences at the University of Minnesota, Twin Cities. I earned my Ph.D in 2016 from the Department of Civil and Environmental Engineering at Massachusetts Institute of Technology. 
-<!-- I also hold a B.S. and M.S. in Civil Engineering from Yonsei University (South Korea).  -->
-My Ph.D. thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters. 
-
-<!-- My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems. I currently study anomalous and reactive transport in fractured hydrogelogic media. -->
-
-<!-- My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems.  -->
+My Ph.D. thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters (<a class="page-link" href="{{ '/vitae/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">CV</a>). 
 
 My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and predictive capability of hydrogeological systems across scales. I combine theoretical, computational, experimental, and field-based approaches to studying flow and reactive transport in porous and fractured media. I also develop data assimilation and machine learning techniques for subsurface characterization and source identification. 
 
 Starting in January 2024, I will be joining the Department of Geological Sciences at the University of Florida as an assistant professor. I am searching for a motivated post-doctoral associate and a Ph.D. student who possess a strong interest in investigating flow and reactive transport phenomena within porous and fractured media. If your research interests align with these topics,  I warmly invite you to send me your CV to explore potential collaborations and opportunities. 
 
+
+ <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">blog</a> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

@@ -7,7 +7,8 @@
       <span class="site-title">
           {% assign name = site.title | split: ' ' %}
           <!-- {{ name | first }} {{ name | last }} -->
-          <strong>{{ name | first }}</strong> {{ name | last }}
+          <!--<strong>Yoon</strong> Research Group-->
+          Seonkyoo (<strong>Sean</strong>) {{ name | last }} 
       </span>
       {% endif %}
     {% endif %}
@@ -30,6 +31,9 @@
 
         <!-- Blog -->
         <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a> -->
+
+        <!-- CV -->
+        <!-- <a class="page-link" href="{{ '/vitae/' | prepend: site.baseurl | prepend: site.url }}">CV</a> -->
 
         <!-- Pages -->
         {% for page in site.pages %}

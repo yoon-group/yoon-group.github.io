@@ -83,7 +83,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Research Experience</h2>
+          <h2>Employments</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -172,27 +172,6 @@
 
 
 
-      {% if site.resume_section_fellowships %}
-      <!-- begin Fellowships -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Fellowships</h2>
-        </header>
-
-        {% for fellowships in site.data.fellowships %}
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ fellowships.award }}</h3>
-          <h4 class="resume-item-details">{{ fellowships.organization }} &bull; {{ fellowships.year }}</h4>
-          <p class="resume-item-copy">{{ fellowships.summary }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Recognition -->
-      {% endif %}
-
-
 
       {% if site.resume_section_publications %}
       <!-- begin Publications -->
@@ -265,6 +244,27 @@
 
       </section>
       <!-- end Research Experience -->
+      {% endif %}
+
+
+      {% if site.resume_section_fellowships %}
+      <!-- begin Fellowships -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Fellowships</h2>
+        </header>
+
+        {% for fellowships in site.data.fellowships %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ fellowships.award }}</h3>
+          <h4 class="resume-item-details">{{ fellowships.organization }} &bull; {{ fellowships.year }}</h4>
+          <p class="resume-item-copy">{{ fellowships.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Recognition -->
       {% endif %}
 
 
