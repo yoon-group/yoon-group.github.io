@@ -7,7 +7,7 @@ layout: page
           <hr>
           {% if page.profiles -%}
               {% for profile in page.profiles %}
-                  <div class="profile col one {{ profile.align }}">
+                  <div class="profile col two {{ profile.align }}">
                       {% if profile.image %}
                         <img class="one" src="{{ profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
                       {% endif %}
