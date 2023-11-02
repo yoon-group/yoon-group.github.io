@@ -1,10 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Seonkyoo (Sean) Yoon
-email: yoonx213@umn.edu
+title: Yoon Research Group
+email: yoon.s@ufl.edu
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 # footer_text: >
 #   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -12,7 +11,7 @@ description: > # this means to ignore newlines until "url:"
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: October 3, 2023 # leave blank if you don't want to display last updated
+last_updated: October 31, 2023 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -146,14 +145,14 @@ resume_name:                    "Seonkyoo (Sean) Yoon"
 resume_title:                   "Ph.D. Hydrology"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "yoonx213@umn.edu"
+resume_contact_email:           "yoon.s@ufl.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 
-resume_header_contact_info:     "<p> Department of Earth and Environmental Sciences, University of Minnesota, Twin Cities <br>116 Church Street SE, Ste 150, Minneapolis, MN 55455<br> email: <a href=mailto:yoonx213@umn.edu>yoonx213@umn.edu</a> | homepage: <a href=/>https://seonkyoo.github.io</a> </p>"
+resume_header_contact_info:     "<p> Department of Geological Sciences, University of Florida <br>Williamson Hall, Gainesville, FL 32611<br> email: <a href=mailto:yoon.s@ufl.edu>yoon.s@ufl.edu</a> | homepage: <a href=/>https://yoon-group.github.io</a> </p>"
 display_header_contact_info:    "true"
 
 # resume_header_intro: "<p> Department of Earth and Environmental Sciences <br> University of Minnesota, Twin Cites <br>116 Church Street SE, Tate Hall 150<br>Minneapolis, MN 55455<br> email: <a href=mailto:yoonx213@umn.edu>yoonx213@umn.edu</a> <br> homepage: <a href=/>https://seonkyoo.github.io</a> </p>"

@@ -1,29 +1,24 @@
 ---
 layout: about
 permalink: /
-title: Seonkyoo (<strong>Sean</strong>) Yoon 
-description: Ph.D. in Hydrology
+title: Yoon Research Group
+description: <span class="h4"><a href="https://geology.ufl.edu"  target="_blank">Department of Geological Sciences</a>, <a href="https://ufl.edu"  target="_blank">University of Florida</a></span>
 
-profile:
-  align: right
-  <!--image: yoonProf.jpg-->
-  image: thumbnail_Yoon.jpg
-  <!--address: >
-    <p>Tate Hall, 150</p>
-    <p>116 Church Street SE</p>
-    <p>Minneapolis, MN 55455</p>-->
+#profile:
+#  align: right
+#  <!--image: yoonProf.jpg-->
+#  image: thumbnail_Yoon.jpg
+#  <!--address: >
+#    <p>Tate Hall, 150</p>
+#    <p>116 Church Street SE</p>
+#    <p>Minneapolis, MN 55455</p>-->
 
 news: true
 social: false
 ---
+Our primary research objective is to enhance our fundamental understanding of the processes of flow, transport, mixing, and reaction in porous and fractured media across various scales. A central research question guiding our work is: ‘How do flow and transport processes at different scales influence each other?’ To explore this question, we employ a comprehensive approach that integrates theoretical, computational, experimental, and field-based methodologies.
 
-I am a post-doctoral associate in the Department of Earth and Environmental Sciences at the University of Minnesota, Twin Cities. I earned my Ph.D in 2016 from the Department of Civil and Environmental Engineering at Massachusetts Institute of Technology. 
-My Ph.D. thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters (<a class="page-link" href="{{ '/vitae/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">CV</a>). 
-
-My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and predictive capability of hydrogeological systems across scales. I combine theoretical, computational, experimental, and field-based approaches to studying flow and reactive transport in porous and fractured media. I also develop data assimilation and machine learning techniques for subsurface characterization and source identification. 
-
-Starting in January 2024, I will be joining the Department of Geological Sciences at the University of Florida as an assistant professor. I am searching for a motivated post-doctoral associate and a Ph.D. student who possess a strong interest in investigating flow and reactive transport phenomena within porous and fractured media. If your research interests align with these topics,  I warmly invite you to send me your CV to explore potential collaborations and opportunities. 
-
+We are currently looking for a motivated post-doctoral associate with expertise in fluid-rock interaction and microfluidics, as well as a Ph.D. student to study karst hydrology. If your research interests align with these areas, please consider sending your CV to Dr. Yoon (yoon.s@ufl.edu) to explore potential collaborative opportunities.
 
  <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">blog</a> -->
 

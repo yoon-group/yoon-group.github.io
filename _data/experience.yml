@@ -1,28 +1,34 @@
 # Jobs
+# UFL
+- company: University of Florida, Gainesville 
+  position1: Assistant Professor
+  duration1: 2024 &mdash; Present
+  #advisor1: "Advisor: Peter K. Kang"
+  # summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
 # UMN
 - company: University of Minnesota, Twin Cities
   position1: Post-doctoral Associate
-  duration1: 2018 &mdash; Present
-  advisor1: "Advisor: Peter K. Kang"
+  duration1: 2018 &mdash; 2023
+  #advisor1: "Advisor: Peter K. Kang"
   # summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # MIT
 - company: Massachusetts Institute of Technology
   position1: Post-doctoral Associate
   duration1: 2016 &mdash; 2018
-  advisor1: "Advisor: John R. Williams"
+  #advisor1: "Advisor: John R. Williams"
   # summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
   position2: Graduate Research Assistant
-  duration2: 2013 &mdash; 2016
-  advisor2: "Advisor: John R. Williams"
+  duration2: 2011 &mdash; 2016
+  #advisor2: "Advisor: John R. Williams"
   # summary2: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-  position3: Graduate Research Assistant
-  duration3: 2011 &mdash; 2013
-  advisor3: "Advisor: Daniele Veneziano"
+  #position3: Graduate Research Assistant
+  #duration3: 2011 &mdash; 2013
+  #advisor3: "Advisor: Daniele Veneziano"
   # summary3: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
 
 # KICT
 - company: Korea Institute of Construction Technology
@@ -35,5 +41,5 @@
 - company: Yonsei University
   position1: Graduate Research Assistant
   duration1: 2007 &mdash; 2009
-  advisor1: "Advisor: Woncheol Cho"
+  #advisor1: "Advisor: Woncheol Cho"
   # summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>

@@ -1,25 +1,32 @@
 # Publications
 
-- year: In Prep.
-  title: "Machine learning-assisted identification of structural properties controlling transport in fracture networks"
-  journal: <i>Water Resources Research</i>,
-  volume: 
-  page: 
-  authors: <ins>Yoon, S.</ins>, Hyman, J. D., & Kang, P. K.
+#- year: In Prep.
+#  title: "Machine learning-assisted identification of structural properties controlling transport in fracture networks"
+#  journal: <i>Water Resources Research</i>,
+#  volume: 
+#  page: 
+#  authors: <ins>Yoon, S.</ins>, Hyman, J. D., & Kang, P. K.
 
-- year: Submitted
+- year: 2023
   title: Emergence of unstable focused flow induced by variable-density flows in vertical fractures
-  journal: <i>Water Resources Research</i>,
+  journal: <i>Water Resources Research</i>.
   volume: 
   page: 
   authors: Cao, H., <ins>Yoon, S.</ins>, Xu, Z., Pyrak-Nolte, L., Breciani, E., & Kang, P. K.
 
-- year: 2023
-  title: Evaluation of the Impact of Transition from Porous to Fractured Rock Media on 3D Field-scale DNAPLs Contamination
-  journal: <i>Journal of Hazardous Materials</i>,
+- year: 2023 
+  title: Flux exchange between fracture and matrix dictates late-time tracer tailing
+  journal: <i>Journal of Hydrology</i>.
   volume: 
   page: 
-  authors: Kim, T., Han, W. S., <ins>Yoon, S.</ins>, Kang, P. K., Shin, J., Nam, M. J.
+  authors: Wang, L., <ins>Yoon, S.</ins>, Zheng, L., Wang, T., Chen, X., & Kang, P. K.
+
+- year: 2023
+  title: Evaluation of the Impact of Transition from Porous to Fractured Rock Media on 3D Field-scale DNAPLs Contamination
+  journal: <i>Journal of Hazardous Materials</i>.
+  volume: 
+  page: 
+  authors: Kim, T., Han, W. S., <ins>Yoon, S.</ins>, Kang, P. K., Shin, J., & Nam, M. J.
 
 - year: 2023
   title: "Effects of dead-end fractures on non-Fickian transport in three-dimensional discrete fracture networks"
@@ -27,13 +34,6 @@
   volume: 
   page: 
   authors: <ins>Yoon, S.</ins>, Hyman, J. D., Han, W. S., & Kang, P. K.
-
-- year: Submitted
-  title: Flux exchange between fracture and matrix dictates late-time tracer tailing
-  journal: <i>Water Resources Research</i>,
-  volume: 
-  page: 
-  authors: Wang, L., <ins>Yoon, S.</ins>, Zheng, L., Wang, T., Chen, X., Kang, P. K.
 
 - year: 2023 
   title: Gravity-Driven controls on fluid and carbonate precipitation distributions in fractures
