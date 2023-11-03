@@ -4,32 +4,31 @@ title: Research
 permalink: /research/
 description: 
 ---
+Our research is centered on the integration of physical and data sciences, with the aim of enhancing our fundamental understanding and predictive capabilities in hydrogeological systems. Specifically, we focus on the processes of flow, transport, mixing, and reaction within porous and fractured media across various scales. Our overarching research question is: "How do flow and transport processes at different scales influence each other?" To address this question, we employ a combination of theoretical, computational, experimental, and field-based approaches.
 
-My research centers on the integration of physical and data sciences, aiming at improving our fundamental understanding and predictive capability of hydrogeological systems. In particular, I am focusing on the process of flow, transport, mixing, and reaction in porous and fractured media across scales. My overarching research question is: "How will small-scale flow & transport processes impact large-sclae ones?" To tackle the question, I combine theoretical, computational, experimental, and field-based approaches. 
-
-<center><img src="/assets/img/scaleBridging.gif" alt="drawing" width="100%"/></center>
+<center><img src="/assets/img/multiScale.gif" alt="drawing" width="90%"/></center>
 
 <br/>
 
-I also develop data assimilation and machine learning techniques for subsurface characterization and source identification. The below image shows an application of data assimilation that identify the location of multiple contaminant sources by assimilating monitoring well data.
+We also develop data assimilation and machine learning techniques for subsurface characterization and source identification. The below image shows an application of data assimilation that identify the location of multiple contaminant sources by assimilating monitoring well data.
 
 <center><img src="/assets/img/sourceID.gif" alt="drawing" width="90%"/></center>
    
 <br/>
+In general, our research can be categorized as either forward or inverse problems, as described in the schematic below. In the forward direction, we investigate how a physical state determines the response of hydrogeological systems, including the effects of fracture-rock interaction on mass transport. In the inverse direction, we use observed responses of a hydrogeological system to inversely estimate the uncertain physical state that leads to the observed response.
 
-Generally speaking, my research can be classified as either forward or inverse problems as described in the schematic below. In forward direction, I investigate how a physical state determines the response of hydrogeologic systems, such as the effects of fracture-matrix interaction on mass transport. In inverse direction, I utilize observed responses of a hydrogeologic system to inversely estimate the uncertain physical state that leads to the observed response.
- 
 <center><img src="/assets/img/forward_inverse.jpg" alt="drawing" width="90%"/></center>
 
 <br/>
 
-My current specific research topics include:
+Our current specific research topics include:
 <ul>
-    <li>Non-Fickian solute transport in Platteville limestone formation</li>
-    <li>Stochastic upscaling for non-Fickian transport</li>
-    <li>Data assimilation for source identification</li>
-    <li>Machine learning-assisted identification of anomalous transport mechanism</li>
-    <li>Groundwater-surface water interaction at stream bed with vegetation</li>
+
+    <li>Non-Fickian solute transport in fractured limestone formations</li>
+    <li>Fluid-rock interaction within rock fractures</li>
+    <li>Stochastic upscaling for mass transport in hyporheic systems</li>
+    <li>Data assimilation for hydrogeological characterization</li>
+    <li>Machine learning-assisted identification of Non-Fickian transport mechanisms.</li>
 </ul>
 
 
