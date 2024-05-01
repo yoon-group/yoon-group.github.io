@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seonkyoo.github.io/sitemap.xml
+Sitemap: https://yoon-group.github.io/sitemap.xml
