@@ -1,7 +1,7 @@
 ---
 layout: page4job
-title: Postdoctoral Associate - Microfluidics
-description: 
+title: Postdoctoral Associate
+description: Geomaterial Inspired Microfluidics
 img: assets/img/postdocThumb.gif
 redirect: https://www.dropbox.com/scl/fi/93bwrdickw9pgocw0k8dt/Postdoctoral-Associate-job-posting.pdf?rlkey=350gwedw5cr3oszvb37zx945g&st=7wn62twe&dl=0
 importance: 1
