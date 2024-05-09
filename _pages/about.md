@@ -19,7 +19,6 @@ social: false # includes social icons at the bottom of the page
 ---
 Our primary research objective is to enhance our fundamental understanding of the processes of flow, transport, mixing, and reaction in porous and fractured media across various scales. A central research question guiding our work is: ‘How do flow and transport processes at different scales influence each other?’ To explore this question, we employ a comprehensive approach that integrates theoretical, computational, experimental, and field-based methodologies.
 
-We are currently looking for a motivated post-doctoral associate with expertise in fluid-rock interaction and microfluidics, as well as a Ph.D. student to study karst hydrology. If your research interests align with these areas, please consider sending your CV to Dr. Yoon (yoon.s@ufl.edu) to explore potential collaborative opportunities.
 
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

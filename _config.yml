@@ -176,8 +176,8 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: false
-    permalink: /projects/:path/
+    output: true
+    permalink: /Opening/:path/
 
 announcements:
   enabled: true
