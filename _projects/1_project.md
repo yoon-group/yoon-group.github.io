@@ -3,12 +3,13 @@ layout: page4job
 title: Postdoctoral Associate
 description: Geomaterial Inspired Microfluidics
 img: assets/img/postdocThumb.gif
-redirect: https://www.dropbox.com/scl/fi/93bwrdickw9pgocw0k8dt/Postdoctoral-Associate-job-posting.pdf?rlkey=350gwedw5cr3oszvb37zx945g&st=7wn62twe&dl=0
 importance: 1
 category: work
 ---
 
-
+[<a class=h6 href="https://www.dropbox.com/scl/fi/93bwrdickw9pgocw0k8dt/Postdoctoral-Associate-job-posting.pdf?rlkey=350gwedw5cr3oszvb37zx945g&st=7wn62twe&dl=0"  target="_blank">Full Description</a>]
+<br>
+<br>
 We are currently looking for a motivated post-doctoral researcher with expertise in fluid-rock interaction and microfluidics. If your research interests align with these areas, please consider sending your CV to Dr. Yoon ([yoon.s@ufl.edu](mailto:yoon.s@ufl.edu)) to explore potential collaborative opportunities.
 
 <div class="row">
