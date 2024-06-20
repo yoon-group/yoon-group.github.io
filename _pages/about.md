@@ -17,7 +17,13 @@ news: true # includes a list of news items
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Our primary research objective is to enhance our fundamental understanding of the processes of flow, transport, mixing, and reaction in porous and fractured media across various scales. A central research question guiding our work is: ‘How do flow and transport processes at different scales influence each other?’ To explore this question, we employ a comprehensive approach that integrates theoretical, computational, experimental, and field-based methodologies.
+Our group envisions addressing fundamental questions in hydrogeology through holistic approaches that integrate physical, biological, and geochemical aspects. We operate two laboratories within the Department of Geological Sciences at the University of Florida (UF): Geofluids Laboratory and Quantitative Hydrogeology Laboratory.
+
+Geofluids Laboratory focuses on utilizing experimental methods to investigate biogeochemical processes within hydrogeologic systems at the micro-scale. This lab is equipped with instruments for microfluidic experiments and particle image velocimetry, allowing us to observe these processes in exceptional detail.
+
+Quantitative Hydrogeology Laboratory leverages high-performance computational modeling and fluorescence spectroscopy to investigate flow and reactive transport processes across different scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the world-leading supercomputing resources at UF HiPerGator.
+
+Our research is driven by a commitment to fostering collaboration among diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, which allows us to achieve innovative breakthroughs in hydrogeology. This collaborative approach ensures that our research considers all the relevant scientific angles in hydrogeology.
 
 
 
