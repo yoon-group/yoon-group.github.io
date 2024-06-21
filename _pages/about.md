@@ -24,7 +24,7 @@ Our group envisions **addressing fundamental questions in hydrogeology** through
 
 **Quantitative Hydrogeology Lab** leverages high-performance computational modeling and fluorescence spectroscopy to investigate flow and reactive transport processes across different scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the world-leading supercomputing resources at UF HiPerGator.
 
-Our research is driven by a commitment to **fostering collaboration** among diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, which allows us to achieve innovative breakthroughs in hydrogeology. This collaborative approach ensures that our research considers all the relevant scientific angles in hydrogeology.
+Our research is driven by a **commitment to fostering collaboration** among diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, which allows us to achieve innovative breakthroughs in hydrogeology. This collaborative approach ensures that our research considers all the relevant scientific angles in hydrogeology.
 
 
 
