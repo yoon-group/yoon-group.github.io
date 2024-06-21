@@ -2,7 +2,7 @@
 layout: about
 title: Home 
 permalink: /
-subtitle: <span class="h6"><a href="https://geology.ufl.edu"  target="_blank" style="color:#000000">Department of Geological Sciences</a>, <a href="https://ufl.edu"  target="_blank" style="color:#000000">University of Florida</a></span>
+subtitle: <span class="h5"><a href="https://geology.ufl.edu"  target="_blank" style="color:#000000">Department of Geological Sciences</a>, <a href="https://ufl.edu"  target="_blank" style="color:#000000">University of Florida</a></span>
 
 #profile:
 #  align: right
@@ -17,13 +17,14 @@ news: true # includes a list of news items
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Our group envisions addressing fundamental questions in hydrogeology through holistic approaches that integrate physical, biological, and geochemical aspects. We operate two laboratories within the Department of Geological Sciences at the University of Florida (UF): Geofluids Laboratory and Quantitative Hydrogeology Laboratory.
+<hr>
+Our group envisions **addressing fundamental questions in hydrogeology** through holistic approaches that integrate physical, biological, and geochemical aspects. We operate two laboratories within the Department of Geological Sciences at the University of Florida (UF): Geofluids Lab and Quantitative Hydrogeology Lab.
 
-Geofluids Laboratory focuses on utilizing experimental methods to investigate biogeochemical processes within hydrogeologic systems at the micro-scale. This lab is equipped with instruments for microfluidic experiments and particle image velocimetry, allowing us to observe these processes in exceptional detail.
+**Geofluids Lab** focuses on utilizing experimental methods to investigate biogeochemical processes within hydrogeologic systems at the micro-scale. This lab is equipped with instruments for microfluidic experiments and particle image velocimetry, allowing us to observe these processes in exceptional detail.
 
-Quantitative Hydrogeology Laboratory leverages high-performance computational modeling and fluorescence spectroscopy to investigate flow and reactive transport processes across different scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the world-leading supercomputing resources at UF HiPerGator.
+**Quantitative Hydrogeology Lab** leverages high-performance computational modeling and fluorescence spectroscopy to investigate flow and reactive transport processes across different scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the world-leading supercomputing resources at UF HiPerGator.
 
-Our research is driven by a commitment to fostering collaboration among diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, which allows us to achieve innovative breakthroughs in hydrogeology. This collaborative approach ensures that our research considers all the relevant scientific angles in hydrogeology.
+Our research is driven by a commitment to **fostering collaboration** among diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, which allows us to achieve innovative breakthroughs in hydrogeology. This collaborative approach ensures that our research considers all the relevant scientific angles in hydrogeology.
 
 
 
