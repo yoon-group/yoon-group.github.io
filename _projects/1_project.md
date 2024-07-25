@@ -1,5 +1,5 @@
 ---
-layout: page4job
+layout: page
 title: Postdoctoral Associate
 description: Microfluidics & Biogeochemistry
 img: assets/img/postdocThumb.gif
