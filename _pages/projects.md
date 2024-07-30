@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Us!
-permalink: /Opening/
+permalink: /opening/
 nav: true
 nav_order: 5
 display_categories: [work, fun]
