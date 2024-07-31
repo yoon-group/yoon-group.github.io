@@ -140,16 +140,16 @@ pagination:
         {% endif %}
       </h3>
       <p>{{ post.description }}</p>
-      <p class="post-meta">
+      <!--<p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
-      </p>
+      </p>-->
       <p class="post-tags">
-        <a href="{{ year | prepend: '/notes/' | prepend: site.baseurl}}">
-          <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
+        <!--<a href="{{ year | prepend: '/notes/' | prepend: site.baseurl}}">
+          <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>-->
 
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;
@@ -160,7 +160,7 @@ pagination:
           {% endif %}
 
           {% if categories != "" %}
-          &nbsp; &middot; &nbsp;
+          <!--&nbsp; &middot; &nbsp;-->
             {% for category in post.categories %}
             <a href="{{ category | slugify | prepend: '/notes/category/' | prepend: site.baseurl}}">
               <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
