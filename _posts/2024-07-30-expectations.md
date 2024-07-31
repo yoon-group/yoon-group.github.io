@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Group Structure
+title: Expectations
 date: 2024-07-30 11:59:00-0400
 description: Expectations in Yoon Research Group
-tags: formatting toc
+tags: 
 categories: group
 giscus_comments: false
 related_posts: false
