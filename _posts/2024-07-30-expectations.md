@@ -10,6 +10,8 @@ related_posts: false
 toc:
   sidebar: left
 ---
+Many parts of this note are from my mentor's and colleagues' notes.
+
 This note aims to establish shared expectations within our research group. As the PI, my primary goal is to cultivate a supportive and inspiring research environment where motivated and talented students and postdocs can conduct impactful research, grow as researchers, and build strong foundations for their careers. I believe this can only be achieved through shared understanding and goals.
 
 I acknowledge that our perspectives evolve as we gain experience and knowledge. While rigid structures can hinder innovation, well-defined group dynamics can foster a productive and creative environment. Your input is invaluable in shaping our group's structure and goals. Please feel free to share your thoughts or questions about this note. I will continue updating this note to incorporate feedback from group members and to reflect my evolving mentoring experiences.
@@ -21,7 +23,6 @@ Your initiative and ownership are essential for project success. I will provide 
 
 I encourage you to propose your own research ideas. If they align with our group’s goals, we can explore potential avenues for support.
 
-
 ## Work Ethics
 I expect all members to be self-motivated, respectful of others, and committed to research integrity. If you are not self-motivated, academic research may not be the right fit for you. High standards and a passion for discovery are fundamental to our work. If you share these values, I am committed to supporting your growth and success. As a group leader, I will foster a supportive atmosphere and lead by example.
 
@@ -31,6 +32,24 @@ I believe that a balanced life is essential for productivity, health, and happin
 
 ## Absences and Vacations
 Occasional absences for personal reasons, such as family events or short trips, are understandable. Please inform me if you'll be away for more than a day. All group members are entitled to up to three weeks of vacation per year. Please coordinate extended absences with me in advance to avoid conflicts. If you need additional time off, please discuss it with me.
+
+## Lab Works 
+I expect all group members to adhere to two critical components when conducting lab work: **safety** and __organization__. We will designate individuals to oversee the Quantitative Hydrogeology Lab and Geofluids Lab. Please help maintain a pleasant lab environment and consult with these individuals if you have any questions.
+
+#### Safety:
+- Be fully aware of the hazards associated with chemicals and equipment.
+- Wear appropriate personal protective equipment (PPE), including a lab coat, goggles, gloves, and closed-toe shoes.
+- Always communicate potential hazards to lab mates and your advisor.
+- Inform lab mates of potential hazards and recommended safety precautions.
+- Leave a written note detailing hazards when absent from the lab.
+
+#### Organization:
+- Maintain a clean and organized workspace.
+- Properly clean glassware and dispose of waste according to regulations.
+- Keep a detailed and accurate lab notebook, including chemical labels, dates, and procedures.
+- Write legibly in your lab notebook so that others can easily replicate your experiments.
+
+
 
 ## Individual Meetings
 We will hold regular weekly one-on-one meetings to discuss your research progress and any concerns. The meeting date and time for each member may change when scheduling conflicts arise.
@@ -45,3 +64,15 @@ I am available for unscheduled meetings as needed. Feel free to stop by my offic
 We will hold regular bi-weekly group meetings to foster collaboration and knowledge sharing. Attendance is mandatory unless you are absent due to travel. Meeting formats will vary. You will present your research to the group once per semester. Primarily, group meetings will focus on discussing high-impact journal papers or other research articles with significant findings. Papers introducing new theoretical frameworks or providing overviews are less suitable for in-depth discussion.
 
 Discussion leadership will rotate among group members. If you are in charge of leading the discussion, prepare a brief (2-3 minute) introduction summarizing the paper. Encourage active participation by highlighting key points, weak points, and potential research directions. All group members should carefully read the selected paper before the meeting. 
+
+## Expectations to PI
+You can and should expect the following from me. **If you find me deviating from these, please let me know.**
+- Provide a pleasant, supportive, and cutting-edge research environment.
+- Offer scientific guidance to help you produce important, rigorous, and creative research outcomes.
+- Offer scientific and professional guidance that furthers your progress toward your professional goals, including career advice and, when the time comes, feedback on job application materials.
+- Always strive to take the initiative and set a positive example.
+- Treat all group members equally.
+- Respect your time.
+- Give credit to your work, especially in public presentations.
+- Avoid being the bottleneck in manuscript submission and provide extensive feedback on drafts of manuscripts, posters, and conference talks.
+- Serve as a lifelong mentor, to the extent that you choose to engage me in that role.
