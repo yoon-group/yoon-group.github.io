@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Expectations
-date: 2024-07-30 11:59:00-0400
+date: 2024-07-31 11:59:00-0400
 description: Expectations in Yoon Research Group
 tags: 
-categories: group
+categories: Group
 giscus_comments: false
 related_posts: false
 toc:
-  beginning: true
+  sidebar: left
 ---
 This note aims to establish shared expectations within our research group. As the PI, my primary goal is to cultivate a supportive and inspiring research environment where motivated and talented students and postdocs can conduct impactful research, grow as researchers, and build strong foundations for their careers. I believe this can only be achieved through shared understanding and goals.
 
