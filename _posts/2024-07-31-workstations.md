@@ -24,17 +24,17 @@ The ID, SSH password, and VNC port number will be provided to each member upon r
 
 | ID | ssh password | VNC portnumber | VNC password |
 | :----------- | :------------ | :------------ | :------------ |
-| lindsey       |e     |2 |22222222 |
+| lindsey       |     |2 |22222222 |
 
 <br>
 
-- Download and install turboVNC viewer according to the OS of your local machine ([Download turboVNC Viewer](https://sourceforge.net/projects/turbovnc/)).
 - An example of setting up a GUI connection on the workstation ‘yoon-group-2’ using the credentials of lindsey is shown below. 
-- For Windows users, putty is required ([Download putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)). For mac OS users, skip to step 3. 
+- Download and install turboVNC viewer according to the OS of your local machine ([Download turboVNC Viewer](https://sourceforge.net/projects/turbovnc/)).
+- For Windows users, putty is required ([Download putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)). For mac OS users, skip to step 2. 
 
 <div>
 1. Run Putty and enter IP address 10.227.17.189 and a title for your session as shown below. The example below is test; you can have your own title. Click Save to save your settings for future use, and then click Open to initiate your SSH tunnel.
-<center><img src="/assets/img/ws1.png" alt="drawing" width="60%"/></center>
+<center><img src="/assets/img/ws1.png" alt="drawing" width="70%"/></center>
 <br>
 
 2. Once a terminal is open, type your id and ssh password as below. (For mac OS, open terminal and login by ‘ssh lindsey@10.227.17.189.)
