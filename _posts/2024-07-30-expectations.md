@@ -28,6 +28,12 @@ I expect all members to be self-motivated. If you are not self-motivated, academ
 
 Advisors often encounter advisees who do exactly what they're told to do and nothing more. It's unlikely that they will continue research in a long run. High standards and a passion for discovery are fundamental to our work. If you share these values, I am committed to supporting your growth and success. 
 
+## Focus
+Knowledge workers, like us, should be aware that we live in a world of distractions. A widespread belief is that multitasking—the ability to work on diverse projects—is a mark of productivity and competency. However, this is often untrue. More frequently, this belief leads to a situation where knowledge workers are busy achieving little.
+
+In fact, the only way to achieve true growth as a researcher is to single-mindedly pursue a research project from beginning to end and produce tangible results, often in the form of publications. I highly recommend the book "[Deep Work](https://www.google.com/books/edition/Deep_Work/B_L8CAAAQBAJ?hl=en&kptab=overview)" by Cal Newport. I've read it several times and still return to my bookmarked pages for reminders about the importance of focused work and the helpful tips it provides.
+
+
 ## Work Ethics
 Academic research requires dedication and a strong work ethic. While I value flexibility, consistent engagement is crucial. I don't focus on the number of hours you work each week. What matters is that the work is done rigorously and creatively. One of the key advantages of academic research is the flexibility to choose your working hours. Therefore, I don't mind when you work, but I ask that you try to be in the office or lab for at least half of each working day. This fosters a supportive research environment with me and your lab mates and ensures you are present for seminars and meetings.
 
