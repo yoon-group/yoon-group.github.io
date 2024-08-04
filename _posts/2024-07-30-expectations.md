@@ -23,9 +23,12 @@ Your initiative and ownership are essential for project success. I will provide 
 
 I encourage you to propose your own research ideas. If they align with our group’s goals, we can explore potential avenues for support.
 
-## Work Ethics
-I expect all members to be self-motivated, respectful of others, and committed to research integrity. If you are not self-motivated, academic research may not be the right fit for you. High standards and a passion for discovery are fundamental to our work. If you share these values, I am committed to supporting your growth and success. As a group leader, I will foster a supportive atmosphere and lead by example.
+## Be self-motivated
+I expect all members to be self-motivated. If you are not self-motivated, academic research may not be the right fit for you. Imagine two members: Joe and Erin. Joe is well trained for data analysis and experimental technique. He is given great projects by his advisor and executes tasks with his well-trained skills, but rarely makes an effort to formulate problems and solutions on his own. In contrary, Erin is less skilled than Joe, but she constantly brainstorms about what problems are interesting for what reasons and thinks deeply about technical solutions; she even brings these problems to her advisor and take ownership of her projects. In a short run, Joe's works may be better in quality and quantity because they're his advisor's ideas. But in a long run, it's Erin who will emerge as a successful researcher.
 
+Advisors often encounter advisees who do exactly what they're told to do and nothing more. It's unlikely that they will continue research in a long run. High standards and a passion for discovery are fundamental to our work. If you share these values, I am committed to supporting your growth and success. 
+
+## Work Ethics
 Academic research requires dedication and a strong work ethic. While I value flexibility, consistent engagement is crucial. I don't focus on the number of hours you work each week. What matters is that the work is done rigorously and creatively. One of the key advantages of academic research is the flexibility to choose your working hours. Therefore, I don't mind when you work, but I ask that you try to be in the office or lab for at least half of each working day. This fosters a supportive research environment with me and your lab mates and ensures you are present for seminars and meetings.
 
 I believe that a balanced life is essential for productivity, health, and happiness. I encourage all my group members to maintain a balanced lifestyle. As a research mentor, I am always open to hearing your concerns and sharing my experiences to help you maintain your passion and purpose.
