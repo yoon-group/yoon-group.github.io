@@ -39,7 +39,7 @@ Academic research requires dedication and a strong work ethic. While I value fle
 
 I believe that a balanced life is essential for productivity, health, and happiness. I encourage all my group members to maintain a balanced lifestyle. As a research mentor, I am always open to hearing your concerns and sharing my experiences to help you maintain your passion and purpose.
 
-## Absences and Vacations
+## Absences & Vacations
 Occasional absences for personal reasons, such as family events or short trips, are understandable. Please inform me if you'll be away for more than a day. All group members are entitled to up to three weeks of vacation per year. Please coordinate extended absences with me in advance to avoid conflicts. If you need additional time off, please discuss it with me.
 
 ## Lab Works 
