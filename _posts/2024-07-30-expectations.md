@@ -58,7 +58,7 @@ I expect all group members to adhere to two critical components when conducting 
 - Keep a detailed and accurate lab notebook, including chemical labels, dates, and procedures.
 - Write legibly in your lab notebook so that others can easily replicate your experiments.
 
-## Code Development:
+## Code Development
 Since much of our research will be computational, we'll be doing a lot of coding. I expect everyone to produce high-quality, functional code with well-organized commenting practices.
 
 The scientific community is rapidly shifting towards open source code and data. Therefore, it's crucial to write code that's easy to read and bug-free. This benefits not only others who may need to reference your code, but also yourself when revisiting it later.
