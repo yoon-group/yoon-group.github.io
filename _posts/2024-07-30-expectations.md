@@ -14,14 +14,13 @@ Many parts of this note are from my mentor's and colleagues' notes.
 
 This note aims to establish shared expectations within our research group. As the PI, my primary goal is to cultivate a supportive and inspiring research environment where motivated and talented students and postdocs can conduct impactful research, grow as researchers, and build strong foundations for their careers. I believe this can only be achieved through shared understanding and goals.
 
-I acknowledge that our perspectives evolve as we gain experience and knowledge. While rigid structures can hinder innovation, well-defined group dynamics can foster a productive and creative environment. Your input is invaluable in shaping our group's structure and goals. Please feel free to share your thoughts or questions about this note. I will continue updating this note to incorporate feedback from group members and to reflect my evolving mentoring experiences.
+I acknowledge that overly rigid structures can hinder innovation. However, well-defined group dynamics foster a productive and creative environment. As our perspectives evolve with experience and knowledge, your input is invaluable in shaping our group's structure and goals. Please feel free to share your thoughts or questions about this. I will continue updating this document to incorporate feedback from group members and reflect my evolving mentoring experiences.
 
 ## Research Projects
-We will collaboratively develop research projects that align with your interests, career goals, and funding opportunities. I will propose potential research directions, but our goal is to find projects that inspire you and contribute to the group's overall objectives.
+I will ensure that each member in our group (except undergraduates) has at least one leading research project that can result in a first-author journal publication. We will collaboratively develop research projects that align with your interests and funding opportunities. While I will propose potential research directions, our goal is to find projects that inspire you and contribute to the group's overall objectives.
 
-Your initiative and ownership are essential for project success. I will provide guidance and support, but you will take the lead in exploring creative solutions and producing high-quality results. While I expect unexpected research directions to emerge, I also emphasize the importance of focused effort and tangible outcomes.
+Your initiative and ownership are essential for project success. I will provide guidance and support, but you will take the lead in exploring creative solutions and producing high-quality results. 
 
-I encourage you to propose your own research ideas. If they align with our group’s goals, we can explore potential avenues for support.
 
 ## Be self-motivated
 I expect all members to be self-motivated. If you are not self-motivated, academic research may not be the right fit for you. Imagine two members: Joe and Erin. Joe is well trained for data analysis and experimental technique. He is given great projects by his advisor and executes tasks with his well-trained skills, but rarely makes an effort to formulate problems and solutions on his own. In contrary, Erin is less skilled than Joe, but she constantly brainstorms about what problems are interesting for what reasons and thinks deeply about technical solutions; she even brings these problems to her advisor and take ownership of her projects. In a short run, Joe's works may be better in quality and quantity because they're his advisor's ideas. But in a long run, it's Erin who will emerge as a successful researcher.
@@ -41,6 +40,9 @@ I believe that a balanced life is essential for productivity, health, and happin
 
 ## Absences & Vacations
 Occasional absences for personal reasons, such as family events or short trips, are understandable. Please inform me if you'll be away for more than a day. All group members are entitled to up to three weeks of vacation per year. Please coordinate extended absences with me in advance to avoid conflicts. If you need additional time off, please discuss it with me.
+
+## Togetherness
+I expect all members to be respectful of others. Your academic reputation and career success depend not only on your work but also on the work of our group members. Everyone's success benefits us all. This applies to everyone, including myself. My professional success is tied to the success of my students and postdocs, and vice versa. Most importantly, a supportive and caring research environment enhances everyone’s well-being. We should all support one another. Harassment or discrimination will not be tolerated.
 
 ## Lab Works 
 I expect all group members to adhere to two critical components when conducting lab work: **safety** and __organization__. We will designate individuals to oversee the Quantitative Hydrogeology Lab and Geofluids Lab. Please help maintain a pleasant lab environment and consult with these individuals if you have any questions.
@@ -64,7 +66,6 @@ Since much of our research will be computational, we'll be doing a lot of coding
 The scientific community is rapidly shifting towards open source code and data. Therefore, it's crucial to write code that's easy to read and bug-free. This benefits not only others who may need to reference your code, but also yourself when revisiting it later.
 
 Here are key points for writing high-quality code:
-
 - Consistency: Use proper indentation and descriptive names for variables and functions.
 - Readability: Write clear and concise comments throughout your code.
 - Version Control: Learn Git and GitHub for efficient version control, collaboration within the lab, and code sharing. UF subscribes to LinkedIn Learning, where you can access free lectures on Git, such as this one: [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning).
