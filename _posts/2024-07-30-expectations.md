@@ -88,12 +88,10 @@ Discussion leadership will rotate among group members. If you are in charge of l
 
 ## Expectations to PI
 You can and should expect the following from me. **If you find me deviating from these, please let me know.**
-- Provide a pleasant, supportive, and cutting-edge research environment.
-- Offer scientific guidance to help you produce important, rigorous, and creative research outcomes.
-- Offer scientific and professional guidance that furthers your progress toward your professional goals, including career advice and, when the time comes, feedback on job application materials.
-- Always strive to take the initiative and set a positive example.
-- Treat all group members equally.
-- Respect your time.
-- Give credit to your work, especially in public presentations.
-- Avoid being the bottleneck in manuscript submission and provide extensive feedback on drafts of manuscripts, posters, and conference talks.
-- Serve as a lifelong mentor, to the extent that you choose to engage me in that role.
+
+- **Scientific Guidance**: Offering comprehensive scientific guidance to help you produce significant, rigorous, and innovative research outcomes.
+- **Professional Development**: Supporting your progress toward your professional goals, including career advice and detailed feedback on job application materials.
+- **Positive Leadership**: Striving to take the initiative and set a positive example for the entire team.
+- **Equality and Respect**: Treating all group members with equal respect and valuing your time.
+- **Efficient Workflow**: Avoiding delays in manuscript submissions and providing thorough feedback on drafts of manuscripts, posters, and conference talks.
+- **Lifelong Mentorship**: Serving as a lifelong mentor, engaging in this role to the extent that you wish.
