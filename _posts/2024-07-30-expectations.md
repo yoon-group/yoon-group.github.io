@@ -14,7 +14,7 @@ Many parts of this note are from my mentor's and colleagues' notes.
 
 This note aims to establish shared expectations within our research group. As the PI, my primary goal is to cultivate a supportive and inspiring research environment where motivated and talented students and postdocs can conduct impactful research, grow as researchers, and build strong foundations for their careers. I believe this can only be achieved through shared understanding and goals.
 
-I acknowledge that overly rigid structures can hinder innovation. However, well-defined group dynamics foster a productive and creative environment. As our perspectives evolve with experience and knowledge, your input is invaluable in shaping our group's structure and goals. Please feel free to share your thoughts or questions about this. I will continue updating this document to incorporate feedback from group members and reflect my evolving mentoring experiences.
+While overly rigid structures can hinder innovation, well-defined group dynamics foster a productive and creative environment. As our perspectives evolve with experience and knowledge, your input is invaluable in shaping our group's structure and goals. Please feel free to share your thoughts or questions about this. I will continue updating this document to incorporate feedback from group members and reflect my evolving mentoring experiences.
 
 ## Research Projects
 I will ensure that each member in our group (except undergraduates) has at least one leading research project that can result in a first-author journal publication. We will collaboratively develop research projects that align with your interests and funding opportunities. While I will propose potential research directions, our goal is to find projects that inspire you and contribute to the group's overall objectives.
@@ -50,8 +50,7 @@ I expect all group members to adhere to two critical components when conducting 
 #### Safety:
 - Be fully aware of the hazards associated with chemicals and equipment.
 - Wear appropriate personal protective equipment (PPE), including a lab coat, goggles, gloves, and closed-toe shoes.
-- Always communicate potential hazards to lab mates and your advisor.
-- Inform lab mates of potential hazards and recommended safety precautions.
+- Always communicate potential hazards and recommended safety precautions to lab mates and your advisor.
 - Leave a written note detailing hazards when absent from the lab.
 
 #### Organization:
@@ -75,7 +74,7 @@ Here are key points for writing high-quality code:
 ## Individual Meetings
 We will hold regular weekly one-on-one meetings to discuss your research progress and any concerns. The meeting date and time for each member may change when scheduling conflicts arise.
 
-For these meetings, please prepare PowerPoint slides that include graphs, data, and discussion points. Always remember that clarity is more important than presentation quality. Please send the slides by 8:00 AM on the day of our meeting. This allows me to review them beforehand and make our time together more productive.
+For these meetings, please prepare PowerPoint slides that include graphs, data, and discussion points. Always remember that clarity is more important than slide quality. Please send the slides by 8:00 AM on the day of our meeting. This allows me to review them beforehand and make our time together more productive.
 
 In addition to presenting your results, please include a slide outlining potential next steps. This practice will help you become a more independent researcher, even though we may develop different directions for next steps during our meeting. After our meeting, please summarize the agreed-upon next steps and email them to me by the end of the day. These summaries will ensure we are on the same page and facilitate future discussions.
 
