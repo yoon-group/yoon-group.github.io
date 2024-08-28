@@ -18,13 +18,14 @@ news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
 <hr>
-Our group envisions **addressing fundamental questions in hydrogeology** through holistic approaches that integrate physical, biological, and geochemical aspects. We operate two laboratories within the Department of Geological Sciences at the University of Florida (UF): Geofluids Lab and Quantitative Hydrogeology Lab.
+Our group aims to **address fundamental questions in hydrogeology** through holistic approaches that integrate physical, biological, and geochemical perspectives. We operate two laboratories within the Department of Geological Sciences at the University of Florida (UF): Geofluids Lab and Quantitative Hydrogeology Lab.
 
-**Geofluids Lab** focuses on utilizing experimental methods to investigate biogeochemical processes within hydrogeologic systems at the micro-scale. This lab is equipped with instruments for microfluidic experiments and particle image velocimetry, allowing us to observe these processes in exceptional detail.
+**Geofluids Lab** focuses on utilizing experimental methods to investigate biogeochemical processes within hydrogeologic systems at the micro-scale. This lab is equipped with instruments for microfluidic experiments and particle image velocimetry, enabling us to directly observe these processes in detail.
 
-**Quantitative Hydrogeology Lab** leverages high-performance computational modeling and fluorescence spectroscopy to investigate flow and reactive transport processes across different scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the world-leading supercomputing resources at UF HiPerGator.
+**Quantitative Hydrogeology Lab** leverages high-performance computational modeling and fluorescence spectroscopy to study flow and reactive transport processes across various scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the supercomputing resources at UF HiPerGator.
 
-Our research is driven by a **commitment to fostering collaboration** among diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, which allows us to achieve innovative breakthroughs in hydrogeology. This collaborative approach ensures that our research considers all the relevant scientific angles in hydrogeology.
+Our research is driven by a **commitment to fostering collaboration** across diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, through which we pursue innovative and interdisciplinary breakthroughs in hydrogeology.
+
 
 
 
