@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workstations
-date: 2024-09-05 10:36:00-0400
+date: 2024-09-10 08:20:00-0400
 description: How to access group workstations
 tags: 
 categories: Quantitative_Hydrogeology_Lab
@@ -11,25 +11,26 @@ pretty_table: true
 ---
 
 ## How to access the group workstations
-Two workstations are available in Quantitative Hydrogeology Lab.
+Three workstations are available in Quantitative Hydrogeology Lab.
 
 | Name | IP |
 | ------------ | ------------ |
+|   yoon-group-0   |    10.242.75.188   |
 |   yoon-group-1   |    10.227.17.58   |
 |   yoon-group-2   |    10.227.17.189    |
 
 <p></p>
 
-The ID, SSH password, and VNC port number will be provided to each member upon request to Sean. In this manual, an account with the following credential information will be used to demonstrate how to access our group workstations.
+The ID, SSH password, and VNC port number will be created and provided to each member upon request to Sean. 
 
-| ID |  VNC port number | 
-| ----------- | ------------ |
-| lindsey     | 2 |
-| fabian      | 3 |
+| ID |  VNC port number | accesible workstations | 
+| ----------- | ------------ | ------------ |
+| lindsey     | 2 | yoon-group-2 |
+| fabian      | 3 | yoon-group-0,1,2 |
+| samuel      | 4 | yoon-group-2 |
 
 <br>
-
-- An example of setting up a GUI connection on the workstation ‘yoon-group-2’ using the credentials of lindsey is shown below. 
+- An example of setting up a GUI connection on the workstation ‘yoon-group-2’ using the credentials of 'lindsey' is shown below. 
 - Download and install turboVNC viewer according to the OS of your local machine ([Download turboVNC Viewer](https://sourceforge.net/projects/turbovnc/)).
 - For Windows users, PuTTY is required ([Download PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)). For mac OS users, skip to step 2. 
 
