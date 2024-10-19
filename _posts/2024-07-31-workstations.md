@@ -63,7 +63,7 @@ The ID, SSH password, and VNC port number will be created and provided to each m
 <center><img src="/assets/img/ws6.png" alt="drawing" width="90%"/></center>
 <br>
 
-8. Again, always close the VNC server session when you are finished with your work. If you need to run a process in the background for an extended time, use the <a href="https://www.geeksforgeeks.org/screen-command-in-linux-with-examples/">screen</a> command to run it in a screen session. 
+8. Again, always close the VNC server session ("vncserver -kill :2") when you are finished with your work. If you need to run a process in the background for an extended time, use the <a href="https://www.geeksforgeeks.org/screen-command-in-linux-with-examples/">screen</a> command to run it in a screen session. 
 
 
 </div>
