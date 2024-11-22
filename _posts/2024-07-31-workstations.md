@@ -28,6 +28,7 @@ The ID, SSH password, and VNC port number will be created and provided to each m
 | lindsey     | 2 | yoon-group-2 |
 | fabian      | 3 | yoon-group-0,1,2 |
 | samuel      | 4 | yoon-group-2 |
+| madison     | 5 | yoon-group-0,1,2 |
 
 <br>
 - An example of setting up a GUI connection on the workstation ‘yoon-group-2’ using the credentials of 'lindsey' is shown below. 
