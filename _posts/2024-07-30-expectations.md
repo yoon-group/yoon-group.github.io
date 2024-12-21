@@ -62,14 +62,11 @@ I expect all group members to adhere to two critical components when conducting 
 - Write legibly in your lab notebook so that others can easily replicate your experiments.
 
 ## Code Development
-Since much of our research will be computational, we'll be doing a lot of coding. I expect everyone to produce high-quality, functional code with well-organized commenting practices.
-
-The scientific community is rapidly shifting towards open source code and data. Therefore, it's crucial to write code that's easy to read and bug-free. This benefits not only others who may need to reference your code, but also yourself when revisiting it later.
-
-Here are key points for writing high-quality code:
+Since much of our research will be computational, we will be doing a lot of coding. I expect everyone to produce high-quality, functional code with well-organized comments. This practice benefits not only others who may need to reference your code but also yourself when revisiting it later. Here are two key criteria for high-quality code:
 - Consistency: Use proper indentation and descriptive names for variables and functions.
 - Readability: Write clear and concise comments throughout your code.
-- Version Control: Learn Git and GitHub for efficient version control, collaboration within the lab, and code sharing. UF subscribes to LinkedIn Learning, where you can access free lectures on Git, such as this one: [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning).
+
+I expect each member to be proficient in at least one of the following programming languages: MATLAB, Python, or R. The code development will be co-managed by both you and me using Git and GitHub. Please learn Git and GitHub for efficient version control, collaboration within the lab, and code sharing. UF subscribes to LinkedIn Learning, where you can access free courses on Git, such as this one: [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning).
 
 ## Individual Meetings
 We will hold regular weekly one-on-one meetings to discuss your research progress and any concerns. Scheduling individual meetings will be managed through the Outlook calendar. Please link the Outlook calendar to your mobile scheduling app (e.g., Google Calendar). 
