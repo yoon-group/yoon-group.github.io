@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expectations
-date: 2024-07-31 11:59:00-0400
+date: 2024-12-20 11:59:00-0400
 description: Expectations in Yoon Research Group
 tags: 
 categories: Group
@@ -34,9 +34,11 @@ In fact, the only way to achieve true growth as a researcher is to single-minded
 
 
 ## Work Ethics
-Academic research requires dedication and a strong work ethic. While I value flexibility, consistent engagement is crucial. I don't focus on the number of hours you work each week. What matters is that the work is done rigorously and creatively. One of the key advantages of academic research is the flexibility to choose your working hours. Therefore, I don't mind when you work, but I ask that you try to be in the office or lab for at least half of each working day. This fosters a supportive research environment with me and your lab mates and ensures you are present for seminars and meetings.
+Academic research demands dedication and a strong work ethic. While I value flexibility, consistent engagement is crucial. Rather than focusing on the number of hours worked each week, it is essential that the work is conducted rigorously and creatively, which can be achieved through strong motivation and taking ownership of your research.
 
-I believe that a balanced life is essential for productivity, health, and happiness. I encourage all my group members to maintain a balanced lifestyle. As a research mentor, I am always open to hearing your concerns and sharing my experiences to help you maintain your passion and purpose.
+One of the key advantages of academic research is the flexibility to choose your working hours. Therefore, I am flexible about when you work, but I ask that you be present in the office or lab for at least half of each working day. This fosters a supportive research environment with both me and your lab mates and ensures that you are available for ad-hoc meetings necessary for collaborative research.
+
+I believe that a balanced life is essential for productivity, health, and happiness. I encourage all members of my group to maintain a balanced lifestyle. As a research mentor, I am always open to hearing your concerns and sharing my experiences to help you sustain your passion and purpose.
 
 ## Absences & Vacations
 Occasional absences for personal reasons, such as family events or short trips, are understandable. Please inform me if you'll be away for more than a day. All group members are entitled to up to three weeks of vacation per year. Please coordinate extended absences with me in advance to avoid conflicts. If you need additional time off, please discuss it with me.
@@ -69,16 +71,14 @@ Here are key points for writing high-quality code:
 - Readability: Write clear and concise comments throughout your code.
 - Version Control: Learn Git and GitHub for efficient version control, collaboration within the lab, and code sharing. UF subscribes to LinkedIn Learning, where you can access free lectures on Git, such as this one: [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning).
 
-
-
 ## Individual Meetings
-We will hold regular weekly one-on-one meetings to discuss your research progress and any concerns. The meeting date and time for each member may change when scheduling conflicts arise.
+We will hold regular weekly one-on-one meetings to discuss your research progress and any concerns. Scheduling individual meetings will be managed through the Outlook calendar. Please link the Outlook calendar to your mobile scheduling app (e.g., Google Calendar). 
 
-For these meetings, please prepare PowerPoint slides that include graphs, data, and discussion points. Always remember that clarity is more important than slide quality. Please send the slides by 8:00 AM on the day of our meeting. This allows me to review them beforehand and make our time together more productive.
+For these meetings, we will keep updating PowerPoint slides that will be posted on the Outlook calendar. The meeting slides are useful for reviewing what we previously discussed and for being reminded of the next steps. Before meetings, include graphs, data, and discussion points. Always remember that clarity is more important than slide quality. Please try to update the slides with new results and discussion points by 8 AM on the day of our meeting. This allows me to review them beforehand and make our time together more productive.
 
-In addition to presenting your results, please include a slide outlining potential next steps. This practice will help you become a more independent researcher, even though we may develop different directions for next steps during our meeting. After our meeting, please summarize the agreed-upon next steps and email them to me by the end of the day. These summaries will ensure we are on the same page and facilitate future discussions.
+In addition to presenting your results, please include a slide outlining potential next steps. This practice will help you become a more independent researcher, even though we may develop different directions for next steps during our meeting. During the meeting, both you and I will edit as necessary. After our meeting, please revisit the slides and edit as needed.
 
-I am available for unscheduled meetings as needed. Feel free to stop by my office to discuss urgent matters between our regular meetings. For non-urgent questions or requests, such as paperwork, please send an email. 
+I am available for unscheduled meetings as needed. Feel free to stop by my office to discuss urgent matters between our regular meetings. For non-urgent questions or requests, such as paperwork, please send an email.
 
 ## Group Meetings
 We will hold regular bi-weekly group meetings to foster collaboration and knowledge sharing. Attendance is mandatory unless you are absent due to travel. Meeting formats will vary. You will present your research to the group once per semester. Primarily, group meetings will focus on discussing high-impact journal papers or other research articles with significant findings. Papers introducing new theoretical frameworks or providing overviews are less suitable for in-depth discussion.
