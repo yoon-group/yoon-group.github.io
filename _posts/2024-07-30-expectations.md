@@ -62,11 +62,13 @@ I expect all group members to adhere to two critical components when conducting 
 - Write legibly in your lab notebook so that others can easily replicate your experiments.
 
 ## Code Development
-Since much of our research will be computational, we will be doing a lot of coding. I expect everyone to produce high-quality, functional code with well-organized comments. This practice benefits not only others who may need to reference your code but also yourself when revisiting it later. Here are two key criteria for high-quality code:
+I expect each member to be proficient in at least one of the following programming languages: MATLAB, Python, or R. Code development will be co-managed by both you and me using Git and GitHub. Please learn these tools for efficient version control, collaboration within the lab, and code sharing. UF subscribes to LinkedIn Learning, where you can access free courses on Git, such as [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning).
+
+High-quality and functional code with well-organized comments are essential. Please consider the following two guidelines for writing well-structured code:
 - Consistency: Use proper indentation and descriptive names for variables and functions.
 - Readability: Write clear and concise comments throughout your code.
 
-I expect each member to be proficient in at least one of the following programming languages: MATLAB, Python, or R. The code development will be co-managed by both you and me using Git and GitHub. Please learn Git and GitHub for efficient version control, collaboration within the lab, and code sharing. UF subscribes to LinkedIn Learning, where you can access free courses on Git, such as this one: [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning).
+These practices benefit not only others who may need to reference your code but also yourself when revisiting it later.
 
 ## Individual Meetings
 We will hold regular weekly one-on-one meetings to discuss your research progress and any concerns. Scheduling individual meetings will be managed through the Outlook calendar. Please link the Outlook calendar to your mobile scheduling app (e.g., Google Calendar). 
@@ -81,6 +83,13 @@ I am available for unscheduled meetings as needed. Feel free to stop by my offic
 We will hold regular bi-weekly group meetings to foster collaboration and knowledge sharing. Attendance is mandatory unless you are absent due to travel. Meeting formats will vary. You will present your research to the group once per semester. Primarily, group meetings will focus on discussing high-impact journal papers or other research articles with significant findings. Papers introducing new theoretical frameworks or providing overviews are less suitable for in-depth discussion.
 
 Discussion leadership will rotate among group members. If you are in charge of leading the discussion, prepare a brief (2-3 minute) introduction summarizing the paper. Encourage active participation by highlighting key points, weak points, and potential research directions. All group members should carefully read the selected paper before the meeting. 
+
+## Attending Conferences
+I will support the conference attendances of group members who are presenting talks or posters related to group projects where I am the Principal Investigator (PI) or co-PI. All final versions of conference abstract submissions must be pre-approved.
+
+Your presence and presentation at conferences represent our entire group; therefore, the quality of your presentation is essential. To ensure high standards, both you and I will comprehensively review and finalize your talk or poster. Please refer to the linked [note](https://drive.google.com/file/d/1Xc6TBsv3B4CSAPdgLvax8Lya6qKjUgvv/view?usp=drive_link) that outlines guidelines for creating an excellent presentation.
+
+Attending conferences offers a valuable opportunity to enhance your professional profile, connect with fellow scholars, and establish potential collaborations. Make the most of this opportunity. After the conference, we will hold a group meeting to share interesting and relevant talks or posters encountered during the event.
 
 ## Expectations to PI
 You can and should expect the following from me. **If you find me deviating from these, please let me know.**
