@@ -14,7 +14,7 @@ Many parts of this note are from my mentor's and colleagues' notes.
 
 This note aims to establish shared expectations within our research group. As the PI, my primary goal is to cultivate a supportive and inspiring research environment where motivated and talented students and postdocs can conduct impactful research, grow as researchers, and build strong foundations for their careers. I believe this can only be achieved through shared understanding and goals.
 
-While overly rigid structures can hinder innovation, well-defined group dynamics foster a productive and creative environment. As our perspectives evolve with experience and knowledge, your input is invaluable in shaping our group's structure and goals. Please feel free to share your thoughts or questions about this. I will continue updating this document to incorporate feedback from group members and reflect my evolving mentoring experiences.
+We aim to create a balanced group structure that supports both productivity and creativity. While overly rigid structures can hinder innovation, well-defined group dynamics can enhance it. Your input is crucial in shaping our group’s structure and goals. Please feel free to share your thoughts or questions. I will continuously update this document to incorporate feedback from group members and to reflect my evolving mentoring experiences.
 
 ## Research Projects
 I will ensure that each member in our group (except undergraduates) has at least one leading research project that can result in a first-author journal publication. We will collaboratively develop research projects that align with your interests and funding opportunities. While I will propose potential research directions, our goal is to find projects that inspire you and contribute to the group's overall objectives.
@@ -38,7 +38,7 @@ Academic research demands dedication and a strong work ethic. While I value flex
 
 One of the key advantages of academic research is the flexibility to choose your working hours. Therefore, I am flexible about when you work, but I ask that you be present in the office or lab for at least half of each working day. This fosters a supportive research environment with both me and your lab mates and ensures that you are available for ad-hoc meetings necessary for collaborative research.
 
-I believe that a balanced life is essential for productivity, health, and happiness. I encourage all members of my group to maintain a balanced lifestyle. As a research mentor, I am always open to hearing your concerns and sharing my experiences to help you sustain your passion and purpose.
+I believe that a balanced life is essential for productivity, health, and happiness. I encourage all members to maintain a balanced lifestyle. As a research mentor, I am always open to hearing your concerns and sharing my experiences to help you sustain your passion and purpose.
 
 ## Absences & Vacations
 Occasional absences for personal reasons, such as family events or short trips, are understandable. Please inform me if you'll be away for more than a day. All group members are entitled to up to three weeks of vacation per year. Please coordinate extended absences with me in advance to avoid conflicts. If you need additional time off, please discuss it with me.
@@ -71,7 +71,7 @@ High-quality and functional code with well-organized comments are essential. Ple
 These practices benefit not only others who may need to reference your code but also yourself when revisiting it later.
 
 ## Individual Meetings
-We will hold regular weekly one-on-one meetings to discuss your research progress and any concerns. Scheduling individual meetings will be managed through the Outlook calendar. Please link the Outlook calendar to your mobile scheduling app (e.g., Google Calendar). 
+We will hold regular weekly one-on-one meetings to discuss your research progress. Scheduling individual meetings will be managed through the Outlook calendar. Please link the Outlook calendar to your mobile scheduling app (e.g., Google Calendar). 
 
 For these meetings, we will keep updating PowerPoint slides that will be posted on the Outlook calendar. The meeting slides are useful for reviewing what we previously discussed and for being reminded of the next steps. Before meetings, include graphs, data, and discussion points. Always remember that clarity is more important than slide quality. Please try to update the slides with new results and discussion points by 8 AM on the day of our meeting. This allows me to review them beforehand and make our time together more productive.
 
@@ -85,7 +85,7 @@ We will hold regular bi-weekly group meetings to foster collaboration and knowle
 Discussion leadership will rotate among group members. If you are in charge of leading the discussion, prepare a brief (2-3 minute) introduction summarizing the paper. Encourage active participation by highlighting key points, weak points, and potential research directions. All group members should carefully read the selected paper before the meeting. 
 
 ## Attending Conferences
-I will support the conference attendances of group members who are presenting talks or posters related to group projects where I am the Principal Investigator (PI) or co-PI. All final versions of conference abstract submissions must be pre-approved.
+I will support the conference attendances of group members who are presenting talks or posters related to group projects where I am the PI or co-PI. All final versions of conference abstract submissions must be pre-approved.
 
 Your presence and presentation at conferences represent our entire group; therefore, the quality of your presentation is essential. To ensure high standards, both you and I will comprehensively review and finalize your talk or poster. Please refer to the linked [note](https://drive.google.com/file/d/1Xc6TBsv3B4CSAPdgLvax8Lya6qKjUgvv/view?usp=drive_link) that outlines guidelines for creating an excellent presentation.
 
