@@ -5,32 +5,28 @@ permalink: /research/
 nav: true
 nav_order: 3
 ---
-Our research is centered on the integration of physical and data sciences, with the aim of enhancing our fundamental understanding and predictive capabilities in hydrogeological systems. Specifically, we focus on the processes of flow, transport, mixing, and reaction within porous and fractured media across various scales. Our overarching research question is: "How do flow and transport processes at different scales influence each other?" To address this question, we employ a combination of theoretical, computational, experimental, and field-based approaches.
 
-<center><img src="/assets/img/multiScale.gif" alt="drawing" width="90%"/></center>
+<div class="schematic float-right">
+    {% include figure.liquid loading="eager" path="/assets/img/multiScale.gif" class='img-fluid z-depth-0 rounded' %}
+</div>
 
-<br/>
+<div class="clearfix">
+<p>Our central research question is: “How do the <strong>coupled processes</strong> of fluid flow, solute transport, geochemical reactions, and microbial metabolism influence each other within various geological structures at different <strong>scales</strong>?” To address this, we employ a combination of theoretical, computational, experimental, and field-based approaches.</p>
 
-We also develop data assimilation and machine learning techniques for subsurface characterization and source identification. The below image shows an application of data assimilation that identify the location of multiple contaminant sources by assimilating monitoring well data.
-
-<center><img src="/assets/img/sourceID.gif" alt="drawing" width="90%"/></center>
-   
-<br/>
-In general, our research can be categorized as either forward or inverse problems, as described in the schematic below. In the forward direction, we investigate how a physical state determines the response of hydrogeological systems, including the effects of fracture-rock interaction on mass transport. In the inverse direction, we use observed responses of a hydrogeological system to inversely estimate the uncertain physical state that leads to the observed response.
-
-<center><img src="/assets/img/forward_inverse.jpg" alt="drawing" width="90%"/></center>
-
-<br/>
-
-Our current specific research topics include:
+Our current research topics include:
 <ul>
-
-    <li>Non-Fickian solute transport in fractured limestone formations</li>
-    <li>Fluid-rock interaction within rock fractures</li>
-    <li>Stochastic upscaling for mass transport in hyporheic systems</li>
-    <li>Data assimilation for hydrogeological characterization</li>
-    <li>Machine learning-assisted identification of Non-Fickian transport mechanisms.</li>
+    <li>Microfluidic investigations of microbial denitrification</li>
+    <li>Surface water and groundwater interactions in karst aquifers</li>
+    <li>Carbonate rock dissolution and precipitation</li>
+    <li>Data assimilation and machine learning applications for hydrogeological characterization</li>
 </ul>
+
+<p>Our research is driven by a commitment to fostering collaboration across diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, through which we pursue innovative and interdisciplinary breakthroughs in hydrogeology.</p>
+
+
+</div>
+ 
+
 
 
 <hr>

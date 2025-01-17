@@ -24,7 +24,14 @@ social: false # includes social icons at the bottom of the page
 </div>
 
 <div class="clearfix">
-We research fluid flow and reactive transport in geologic systems, focusing on the complex interactions between geologic structures, flow dynamics, solute transport, geochemical reactions, and microbial processes. Our goal is to deepen our understanding of how these interconnected processes influence the environment, shape ecosystems, and affect water and energy resources.
+<p>We research fluid flow and reactive transport in geologic systems, focusing on the complex interactions between geologic <strong>structures</strong>, <strong>flow</strong> dynamics, solute <strong>transport</strong>, geochemical <strong>reactions</strong>, and <strong>microbial</strong> processes. Our goal is to deepen our understanding of how these interconnected processes influence the environment, shape ecosystems, and affect water and energy resources.</p>
+
+We operate two laboratories: 
+<p><em><u>Geofluids Lab</u></em> focuses on utilizing experimental methods to investigate biogeochemical processes within hydrogeologic systems at the micro-scale. This lab is equipped with instruments for microfluidic experiments and particle image velocimetry, enabling us to directly observe these processes in detail.</p>
+
+<p><em><u>Quantitative Hydrogeology Lab</u></em> leverages high-performance computational modeling and fluorescence spectroscopy to study flow and reactive transport processes across various scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the supercomputing resources at UF HiPerGator.</p> 
+
+
 </div>
  
 <br>
