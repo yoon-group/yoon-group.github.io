@@ -26,7 +26,6 @@ Our current research topics include:
 
 </div>
 
-
 <hr>
 
 <!-- I currently study anomalous transport and mixing-induced reaction in rough fractures.  -->
