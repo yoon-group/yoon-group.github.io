@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page
 title: Research
 permalink: /research/
 nav: true
@@ -14,6 +14,7 @@ nav_order: 3
 <p>Our central research question is: “How do the <strong>coupled processes</strong> of fluid flow, solute transport, geochemical reactions, and microbial metabolism influence each other within various geological structures at different <strong>scales</strong>?” To address this, we employ a combination of theoretical, computational, experimental, and field-based approaches.</p>
 
 Our current research topics include:
+
 <ul>
     <li>Microfluidic investigations of microbial denitrification</li>
     <li>Surface water and groundwater interactions in karst aquifers</li>
@@ -23,10 +24,7 @@ Our current research topics include:
 
 <p>Our research is driven by a commitment to fostering collaboration across diverse areas of expertise. We actively partner with researchers in microbiology and hydrogeochemistry, through which we pursue innovative and interdisciplinary breakthroughs in hydrogeology.</p>
 
-
 </div>
- 
-
 
 
 <hr>
@@ -43,7 +41,7 @@ Our current research topics include:
         <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
-        {% endif %}    
+        {% endif %}
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
@@ -61,7 +59,7 @@ Our current research topics include:
         <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
-        {% endif %}    
+        {% endif %}
         <span>
             <h1>{{ project.title }}</h1>
             <br/>

@@ -24,13 +24,15 @@ layout: default
       {% if page.meta %}• {{ page.meta }}{% endif %}
     </p>
     <p class="post-tags">
-      <!--{% if url_beginning == '/notes/' %}
-        <a href="{{ year | prepend: '/notes/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-      {% else %}
-        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
-{% endif %} -->
+      <!--
+        {% if url_beginning == '/notes/' %}
+                <a href="{{ year | prepend: '/notes/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
+              {% else %}
+                <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
+        {% endif %}
+      -->
       {% if tags != '' %}
-	      <!--&nbsp; &middot; &nbsp;-->
+        <!-- &nbsp; &middot; &nbsp; -->
         {% for tag in page.tags %}
           {% if url_beginning == '/notes/' %}
             <a href="{{ tag | slugify | prepend: '/notes/tag/' | prepend: site.baseurl}}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
@@ -42,7 +44,7 @@ layout: default
       {% endif %}
 
       {% if categories != '' %}
-	      <!--&nbsp; &middot; &nbsp;-->
+        <!-- &nbsp; &middot; &nbsp; -->
         {% for category in page.categories %}
           {% if url_beginning == '/notes/' %}
             <a href="{{ category | slugify | prepend: '/notes/category/' | prepend: site.baseurl}}">

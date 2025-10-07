@@ -7,7 +7,9 @@ nav_order: 6
 display_categories: [work, fun]
 horizontal: false
 ---
+
 We are always looking for motivated individuals to join our Quantitative Hydrogeology Laboratory and Geofluids Laboratory. Our laboratories foster the professional growth of each team member for successful careers in academia and industry.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

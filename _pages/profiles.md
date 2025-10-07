@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: 
+description:
 nav: true
 nav_order: 2
 images:
@@ -14,40 +14,40 @@ profiles:
     image: thumbnail_Yoon.jpg
     content: about_yoon.md
     image_circular: false # crops the image to make it circular
-#    more_info: >
-#      <p>555 your office number</p>
-#      <p>123 your address street</p>
-#      <p>Your City, State 12345</p>
+  #    more_info: >
+  #      <p>555 your office number</p>
+  #      <p>123 your address street</p>
+  #      <p>Your City, State 12345</p>
   - align: left
     image: Madison.jpg
     content: about_flint.md
     image_circular: false # crops the image to make it circular
-#    more_info: >
-#      <p>555 your office number</p>
-#      <p>123 your address street</p>
-#      <p>Your City, State 12345</p>
- 
+  #    more_info: >
+  #      <p>555 your office number</p>
+  #      <p>123 your address street</p>
+  #      <p>Your City, State 12345</p>
+
   - align: right
     image: FQ2.jpg
     content: about_quichimbo.md
     image_circular: false # crops the image to make it circular
-#    more_info: >
-#      <p>555 your office number</p>
-#      <p>123 your address street</p>
-#      <p>Your City, State 12345</p>
+  #    more_info: >
+  #      <p>555 your office number</p>
+  #      <p>123 your address street</p>
+  #      <p>Your City, State 12345</p>
 
   - align: left
     image: KL.jpg
     content: about_lawless.md
     image_circular: false # crops the image to make it circular
-#    more_info: >
-#      <p>555 your office number</p>
-#      <p>123 your address street</p>
-#      <p>Your City, State 12345</p>
- 
- 
+  #    more_info: >
+  #      <p>555 your office number</p>
+  #      <p>123 your address street</p>
+  #      <p>Your City, State 12345</p>
+
   - align: right
 ---
+
 ### Beyond Bios
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
@@ -67,5 +67,3 @@ profiles:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Slide12.PNG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Slide13.PNG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-
-
