@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workstations
-date: 2025-10-03 16:36:00-0400
+date: 2025-11-03 14:40:00-0400
 description: How to access group workstations
 tags:
 categories: Quantitative_Hydrogeology_Lab
@@ -50,7 +50,7 @@ The ID, SSH password, and VNC port number will be created and provided to each m
 3. Change your ssh password as you want for security. To change the password, type ‘passwd’.
    <br>
 
-4. Run a VNC server on your assigned port number by ‘vncserver :2’. You will be asked to create your VNC password (8 digits). If you want to change the password later, type in vncpasswd.
+4. Run a VNC server on your assigned port number by ‘vncserver :[Your Port Number]’. You will be asked to create your VNC password (8 digits). If you want to change the password later, type in vncpasswd.
 <center><img src="/assets/img/ws3.png" alt="drawing" width="90%"/></center>
 <br>
 
