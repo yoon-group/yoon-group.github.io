@@ -284,7 +284,7 @@ jekyll-archives:
     category: "/notes/category/:name/"
 
 display_tags: #["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["Group", "Quantitative_Hydrogeology_Lab", "Geofluids_Lab"] # these categories will be displayed on the front page of your blog
+display_categories: ["Quantitative_Hydrogeology_Lab", "Geofluids_Lab"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
