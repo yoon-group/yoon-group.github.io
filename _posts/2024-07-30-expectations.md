@@ -4,7 +4,7 @@ title: Expectations
 date: 2024-12-20 11:59:00-0400
 description: Expectations in Yoon Research Group
 tags:
-categories: Quantitative_Hydrogeology_Lab, Geofluids_Lab
+categories: Quantitative_Hydrogeology_Lab Geofluids_Lab
 giscus_comments: false
 related_posts: false
 toc:
