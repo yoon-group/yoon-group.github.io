@@ -19,8 +19,8 @@ profiles:
   #      <p>123 your address street</p>
   #      <p>Your City, State 12345</p>
   - align: left
-    image: Madison.jpg
-    content: about_flint.md
+    image: bohyun.jpg
+    content: about_bohyun.md
     image_circular: false # crops the image to make it circular
   #    more_info: >
   #      <p>555 your office number</p>
@@ -47,7 +47,10 @@ profiles:
 
   - align: right
 ---
+### Group Alumni
+  - <a href="/people/alumni/madison"><strong>Madison Flint</strong></a> (Assistant Research Scientist, 2024-2025)
 
+---
 ### Beyond Bios
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
