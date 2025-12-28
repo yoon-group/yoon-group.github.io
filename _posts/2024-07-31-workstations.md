@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workstations
-date: 2025-11-03 14:40:00-0400
+date: 2025-12-28 14:40:00-0400
 description: How to access group workstations
 tags:
 categories: Quantitative_Hydrogeology_Lab
@@ -31,6 +31,7 @@ The ID, SSH password, and VNC port number will be created and provided to each m
 | samuel  | 4               | yoon-group-2           |
 | madison | 5               | yoon-group-0,1,2       |
 | keith   | 6               | yoon-group-0,1,2       |
+| bohyun  | 7               | yoon-group-0,1,2       |
 
 <br>
 - An example of setting up a GUI connection on the workstation ‘yoon-group-2’ using the credentials of 'lindsey' is shown below. 
