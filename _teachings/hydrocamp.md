@@ -19,7 +19,7 @@ schedule:
     data: water level data / diver data
 
   - date: Jul 22
-    am: "**Lec 2**: SW-GW interaction / nutrient cycling (Piper Diagram /  N2O / Water Isotope)"
+    am: "**Lec 2**: SW-GW interaction / nutrient cycling (Piper Diagram /  N<sub>2</sub>O / Water Isotope)"
     pm: "**Lab 2**: Gas & water sampling practice"
     data: tracer data (1/4)
     due: "**A2**: Hydrograph analysis"
@@ -30,13 +30,13 @@ schedule:
   - date: Jul 24
     am: "**Lec 3**: Instruments: IC, GC, Picarro, Fluorospectrometer"
     pm: "**Lab 3**: Instrument practice (GC)"
-    data: tracer data (2/4) / N2O scans (std & field)
+    data: tracer data (2/4) / N<sub>2</sub>O scans (std & field)
     due: "**A3**: Well water level analysis"
 
   - date: Jul 27
     am: "**Lec 4**: Potentiometric mapping basics"
     pm: "**Lab 4**: surveying practice on UF campus"
-    due: "**A4**: N2O STD & field data analysis"
+    due: "**A4**: N<sub>2</sub>O STD & field data analysis"
 
   - date: Jul 28
     am: "**Field 3**: Surveying / dye sample collection"
