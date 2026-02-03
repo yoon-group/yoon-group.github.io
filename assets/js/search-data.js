@@ -93,24 +93,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-paper-in-collaboration-with-lichun-wang-at-tianjin-university-on-solute-transport-dependence-on-fracture-and-rock-matrix-interaction-has-been-accepted-in-journal-of-hyrology",
-          title: 'Paper in collaboration with Lichun Wang at Tianjin University on solute transport dependence...',
-          description: "",
-          section: "News",},{id: "news-hongfan-s-paper-titled-emergence-of-unstable-focused-flow-induced-by-variable-density-flows-in-vertical-fractures-accepted-in-water-resources-reesarch-congraturations-hongfan",
-          title: 'Hongfan’s paper titled “Emergence of unstable focused flow induced by variable-density flows in...',
-          description: "",
-          section: "News",},{id: "news-sean-started-a-tenure-track-faculty-position-in-the-department-of-geological-sciences-at-the-university-of-florida",
+            },},{id: "news-sean-started-a-tenure-track-faculty-position-in-the-department-of-geological-sciences-at-the-university-of-florida",
           title: 'Sean started a tenure-track faculty position in the Department of Geological Sciences at...',
           description: "",
           section: "News",},{id: "news-sean-will-serve-on-the-faculty-advisory-committee-at-the-uf-water-institute-for-the-upcoming-three-year-term-link",
