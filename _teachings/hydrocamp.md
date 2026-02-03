@@ -15,7 +15,7 @@ schedule:
     due: "**A1**: tracer calibration curve"
 
   - date: Jul 21
-    all: "**Field 1**: dye injection / water table Measurments / diver deployment"
+    am: "**Field 1**: dye injection / water table Measurments / diver deployment"
     data: water level data / diver data
 
   - date: Jul 22
@@ -25,7 +25,7 @@ schedule:
     due: "**A2**: Hydrograph analysis"
 
   - date: Jul 23
-    all: "**Field 2**: YSI / Hydrochemistry sampling / dye sample collection"
+    am: "**Field 2**: YSI / Hydrochemistry sampling / dye sample collection"
 
   - date: Jul 24
     am: "**Lec 3**: Instruments: IC, GC, Picarro, Fluorospectrometer"
@@ -39,7 +39,7 @@ schedule:
     due: "**A4**: N2O STD & field data analysis"
 
   - date: Jul 28
-    all: "**Field 3**: Surveying / dye sample collection"
+    am: "**Field 3**: Surveying / dye sample collection"
     data: surveying data
 
   - date: Jul 29
@@ -49,7 +49,7 @@ schedule:
     due: "**A5**: Potentiometric map analysis"
 
   - date: Jul 30
-    all: "**Field 4**: Slug Test /dye sample collection"
+    am: "**Field 4**: Slug Test /dye sample collection"
     data: slug test data
 
   - date: Jul 31
@@ -70,10 +70,10 @@ schedule:
     due: "**A8**: Water isotope analysis"
 
   - date: Aug 5
-    all: work on final report
+    am: "work on final report"
 
   - date: Aug 6 
-    all: work on final report
+    am: "work on final report"
     due: "**Final report** on SW-GW interaction"
 
 ---
