@@ -60,13 +60,11 @@ schedule:
 
   - date: Aug 3
     am: "**Lec 7**: isotopes in hydrology"
-    pm: work on assignment
     data: water isotope data
     due: "**A7**: CDOM/FDOM analysis"
 
   - date: Aug 4 
     am: "**Lec 8**: River discharge estimation"
-    pm: work on assignment
     due: "**A8**: Water isotope analysis"
 
   - date: Aug 5
