@@ -1,0 +1,4 @@
+<strong>Madison Flint</strong> [<a class="h5" href="https://www.researchgate.net/profile/Madison-Flint" target="_blank" title="ResearchGate"><i class="ai ai-researchgate"></i></a>]:
+Madison is an Assistant Scientist at the University of Florida’s Department of Geological Sciences, specializing in aquatic biogeochemistry with a primary focus on microbial nitrogen cycling. Her research explores the influence of shifting hydrogeological conditions on dissolved nitrogen transformations and of particular interest to her, production and consumption of the potent greenhouse gas known as nitrous oxide (N<sub>2</sub>O). Madison is a loving mother to her three dogs and four cats and she enjoys spending her free time outside exploring the wonderful wilderness of north Florida with her wonderful fiancé.
+<br>
+_"I am a chemist because it is intellectual but beautiful, scientific but artistic, and has structured rules but allows for total creativity."_
