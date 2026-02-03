@@ -15,9 +15,9 @@ We are always looking for motivated individuals to join our Quantitative Hydroge
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
+  <!--<a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
-  </a>
+  </a>-->
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->

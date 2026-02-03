@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <span class="h5"><a href="https://geology.ufl.edu"  target="_blank" style="color:#000000">Department of Geological Sciences</a>, <a href="https://ufl.edu"  target="_blank" style="color:#000000">University of Florida</a></span>
 
