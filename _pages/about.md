@@ -18,8 +18,8 @@ subtitle: <span class="h5"><a href="https://geology.ufl.edu"  target="_blank" st
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 #latest_posts:
 #  enabled: true
