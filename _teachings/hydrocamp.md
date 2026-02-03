@@ -11,7 +11,7 @@ schedule:
   - date: Jul 20
     am: "**Lec 1**: orientation / field site intro / dye Tracing intro."
     pm: "**Lab 1**: standard tracer sample production"
-    data: Standard tracer sample scans 
+    data: standard tracer sample scans 
     due: "**A1**: tracer calibration curve"
 
   - date: Jul 21
@@ -36,7 +36,6 @@ schedule:
   - date: Jul 27
     am: "**Lec 4**: Potentiometric mapping basics"
     pm: "**Lab 4**: surveying practice on UF campus"
-    data: Standard tracer sample scans 
     due: "**A4**: N2O STD & field data analysis"
 
   - date: Jul 28
