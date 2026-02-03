@@ -150,7 +150,7 @@ ninja.data = [{
               window.location.href = "/teachings/hydrocamp/";
             },},{id: "teachings-hydrogeologic-modeling",
           title: 'Hydrogeologic Modeling',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          description: "This course provides an introduction to numerical methods for flow and transport in subsurface groundwater systesm. Students will learn about groundwater flow and solute transport equations and numerical schemes to sovle them via finite volume methods.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/hydrogeologic-modling/";
             },},{
