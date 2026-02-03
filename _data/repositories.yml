@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yoon-group
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - yoon-group/spectral_data_processing
+  - yoon-group/sink_rise_discharge
+  - yoon-group/gc_data_processing
+  - yoon-group/cdom_fdom_peakPicking
