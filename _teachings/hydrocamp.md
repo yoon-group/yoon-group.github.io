@@ -30,7 +30,7 @@ schedule:
   - date: Jul 24
     am: "**Lec 3**: Instruments: IC, GC, Picarro, Fluorospectrometer"
     pm: "**Lab 3**: Instrument practice (GC)"
-    data: tracer data (2/4) / N2O scans (std & field) by TA 
+    data: tracer data (2/4) / N2O scans (std & field)
     due: "**A3**: Well water level analysis"
 
   - date: Jul 27
@@ -55,7 +55,7 @@ schedule:
   - date: Jul 31
     am: "**Lec 6**: DOM spectroscopy"
     pm: "**Lab 6**: CDOM / FDOM data acquisition"
-    data: tracer data (4/4) / CDOM & FDOM by TA" 
+    data: tracer data (4/4) / CDOM & FDOM
     due: "**A6**: slug test analysis"
 
   - date: Aug 3
