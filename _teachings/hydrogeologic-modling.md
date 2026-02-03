@@ -1,15 +1,15 @@
 ---
 layout: course
 title: Hydrogeologic Modeling 
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Sean Yoon
+description: This course provides an introduction to numerical methods for flow and transport in subsurface groundwater systesm. Students will learn about groundwater flow and solute transport equations and numerical schemes to sovle them via finite volume methods.
+instructor: Dr. Sean Yoon
 year: 2026
 term: Fall
 location: Williamson Hall, Room TBA
 time: TBA
 schedule:
   - week: 1
-    date: Sept 5
+    date: Aug 24
     topic: Course Introduction
     description: Overview of groudnwater flow and solute transport, course structure, and expectations.
     materials:
