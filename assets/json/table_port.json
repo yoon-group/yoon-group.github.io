@@ -22,11 +22,16 @@
   {
     "id": "keith",
     "port": "6",
-    "workstation": "yoon-group-2"
+    "workstation": "yoon-group-0,1,2"
   },
   {
     "id": "bohyun",
     "port": "7",
+    "workstation": "yoon-group-0,1,2"
+  }
+  {
+    "id": "madeline",
+    "port": "8",
     "workstation": "yoon-group-0,1,2"
   }
 ]
