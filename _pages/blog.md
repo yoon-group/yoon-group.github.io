@@ -152,7 +152,7 @@ pagination:
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a> -->
 
           {% if tags != "" %}
-          &nbsp; &middot; &nbsp;
+          <!--&nbsp; &middot; &nbsp;-->
             {% for tag in post.tags %}
             <a href="{{ tag | slugify | prepend: '/notes/tag/' | relative_url }}">
               <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
@@ -160,6 +160,7 @@ pagination:
                 &nbsp;
               {% endunless %}
               {% endfor %}
+          &nbsp; &middot; &nbsp;
           {% endif %}
 
           {% if categories != "" %}
@@ -168,7 +169,7 @@ pagination:
             <a href="{{ category | slugify | prepend: '/notes/category/' | relative_url }}">
               <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
               {% unless forloop.last %}
-                &nbsp;
+                &nbsp; &middot; &nbsp;
               {% endunless %}
               {% endfor %}
           {% endif %}

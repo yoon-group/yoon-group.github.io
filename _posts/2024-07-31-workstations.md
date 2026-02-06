@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workstations
-date: 2025-12-28 14:40:00-0400
+last_modified_at: 2025-12-28 14:40:00-0400
 description: How to access group workstations
 tags:
 categories: Quantitative_Hydrogeology_Lab

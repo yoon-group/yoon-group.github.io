@@ -17,20 +17,20 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
-      Created on {{ page.date | date: '%B %d, %Y' }}
+    <!--Created on {{ page.date | date: '%B %d, %Y' }}-->
       {% if page.author %}by {{ page.author }}{% endif %}
       {% assign last_date = page.last_modified_at | default: page.last_updated %}
-      {% if last_date %}, last updated on {{ last_date | date: '%B %d, %Y' }}{% endif %}
+      {% if last_date %}Last updated on {{ last_date | date: '%B %d, %Y' }}{% endif %}
       {% if page.meta %}• {{ page.meta }}{% endif %}
     </p>
     <p class="post-tags">
       {% if url_beginning == '/notes/' %}
         <a href="{{ year | prepend: '/notes/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
       {% else %}
-        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
+	      <!--<i class="fa-solid fa-calendar fa-sm"></i> {{ year }}-->
       {% endif %}
       {% if tags != '' %}
-        &nbsp; &middot; &nbsp;
+	      <!--&nbsp; &middot; &nbsp;-->
         {% for tag in page.tags %}
           {% if url_beginning == '/notes/' %}
             <a href="{{ tag | slugify | prepend: '/notes/tag/' | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
@@ -41,10 +41,11 @@ layout: default
             &nbsp;
           {% endunless %}
         {% endfor %}
+        &nbsp; &middot; &nbsp;
       {% endif %}
 
       {% if categories != '' %}
-        &nbsp; &middot; &nbsp;
+	      <!--&nbsp; &middot; &nbsp;-->
         {% for category in page.categories %}
           {% if url_beginning == '/notes/' %}
             <a href="{{ category | slugify | prepend: '/notes/category/' | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category -}}</a>
