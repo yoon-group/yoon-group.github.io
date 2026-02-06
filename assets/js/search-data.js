@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/opening/";
           },
-        },{id: "post-workstations",
+        },{id: "post-gc-sampling",
         
-          title: "Workstations",
+          title: 'GC sampling <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "How to access group workstations",
+        description: "How to sample for GC",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/notes/workstations/";
+            window.open("https://www.dropbox.com/scl/fi/iawc1zfy6loulhr4k4cvp/SOP-GC.docx?rlkey=569yc278aaq4sgn3q0jbmo4tp&st=f7bhmu9v&dl=0", "_blank");
           
         },
       },{id: "post-codes",
@@ -66,6 +66,28 @@ ninja.data = [{
             window.location.href = "/notes/github/";
           
         },
+      },{id: "post-pdms-process",
+        
+          title: 'PDMS Process <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to make PDMS chips",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/ovfp5intqaz0waqlpzo8v/PDMS-processing-procedure.docx?rlkey=ugijj6qobk0wcw8kj1m3483oq&st=b0lbuj6y&dl=0", "_blank");
+          
+        },
+      },{id: "post-workstations",
+        
+          title: "Workstations",
+        
+        description: "How to access group workstations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/notes/workstations/";
+          
+        },
       },{id: "post-expectations",
         
           title: "Expectations",
@@ -75,17 +97,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/notes/expectations/";
-          
-        },
-      },{id: "post-pdms-process",
-        
-          title: "PDMS Process",
-        
-        description: "How to make PDMS chips",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/notes/pdms/";
           
         },
       },{id: "books-the-godfather",
