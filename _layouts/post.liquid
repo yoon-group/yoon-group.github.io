@@ -18,9 +18,10 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
     <!--Created on {{ page.date | date: '%B %d, %Y' }}-->
+    Last updated on {{ page.date | date: '%B %d, %Y' }}
       {% if page.author %}by {{ page.author }}{% endif %}
       {% assign last_date = page.last_modified_at | default: page.last_updated %}
-      {% if last_date %}Last updated on {{ last_date | date: '%B %d, %Y' }}{% endif %}
+      <!--{% if last_date %}Last updated on {{ last_date | date: '%B %d, %Y' }}{% endif %}-->
       {% if page.meta %}• {{ page.meta }}{% endif %}
     </p>
     <p class="post-tags">
