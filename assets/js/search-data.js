@@ -151,7 +151,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/ovfp5intqaz0waqlpzo8v/PDMS-processing-procedure.docx?rlkey=ugijj6qobk0wcw8kj1m3483oq&st=b0lbuj6y&dl=0", "_blank");
+            window.open("https://www.dropbox.com/scl/fi/ovfp5intqaz0waqlpzo8v/SOP-PDMS-processing.docx?rlkey=b795ka9grbaxw78lxckr1n9xz&st=5le9yhb2&dl=0", "_blank");
           
         },
       },{id: "post-workstations",
