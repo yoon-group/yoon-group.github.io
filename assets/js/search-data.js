@@ -52,7 +52,73 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/iawc1zfy6loulhr4k4cvp/SOP-GC.docx?rlkey=569yc278aaq4sgn3q0jbmo4tp&st=f7bhmu9v&dl=0", "_blank");
+            window.open("https://www.dropbox.com/scl/fi/iawc1zfy6loulhr4k4cvp/SOP-GC.docx?rlkey=rwmem5x9e04ku5yh77ne11ag6&st=q372ry78&dl=0", "_blank");
+          
+        },
+      },{id: "post-ysi",
+        
+          title: 'YSI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to operate YSI probe",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/oo8a1fnsiz1y3deb6gbuf/SOP-YSI.docx?rlkey=85nxdzwqw1ga8eec5415illre&st=fb2gam7k&dl=0", "_blank");
+          
+        },
+      },{id: "post-carbon-isotope-analysis",
+        
+          title: 'Carbon isotope analysis <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to operate Picarro (carbon)",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/bffpuh44dw6jn39hausga/SOP-Picarro_carbon.docx?rlkey=a91fo19b12d1vf164sv139byv&st=88xqs0nk&dl=0", "_blank");
+          
+        },
+      },{id: "post-ic",
+        
+          title: 'IC <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to operate IC",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/7jy396m23gvn4nob723fd/SOP-IC.docx?rlkey=lma6yidl4fkog0qu9enijyepr&st=3xbx4mfp&dl=0", "_blank");
+          
+        },
+      },{id: "post-master-mold-photolithography",
+        
+          title: 'Master mold (photolithography) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to produce master mold for microfluidics",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/swoyoiohme9cjycliigua/SOP-masterMold-Suex-thick.docx?rlkey=aqzpf1zgbrdl9a656p4hrbrk6&st=6s9ro73b&dl=0", "_blank");
+          
+        },
+      },{id: "post-carbon-pacekt-process",
+        
+          title: 'Carbon pacekt process <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to handle and process carbon packets for dye tracing",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/lfx4uwy2hy9ykp8ceallj/SOP-carbon-packet.docx?rlkey=k3hwumkzl9z1ouhgd1ygt96bp&st=oe8zgbm3&dl=0", "_blank");
+          
+        },
+      },{id: "post-aa3",
+        
+          title: 'AA3 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to operate AA3",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/8geidsrpzb6kyi02bpsmt/SOP-AA3.docx?rlkey=cup6ca16gb2gp1eirpjqzzjo3&st=b6wfgbka&dl=0", "_blank");
           
         },
       },{id: "post-codes",
@@ -64,6 +130,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/notes/github/";
+          
+        },
+      },{id: "post-spectrofluorophotometer",
+        
+          title: 'Spectrofluorophotometer <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to operate Shimadzu spectrofluorophotometer",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/mnun40r1wsjwhfd7bc3s0/SOP-Spectrofluorometer_Shimdazu.docx?rlkey=gzylnm0ulctfm74w5jm5izs3g&st=urf4rodt&dl=0", "_blank");
           
         },
       },{id: "post-pdms-process",
