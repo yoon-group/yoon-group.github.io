@@ -121,6 +121,28 @@ ninja.data = [{
             window.open("https://www.dropbox.com/scl/fi/8geidsrpzb6kyi02bpsmt/SOP-AA3.docx?rlkey=cup6ca16gb2gp1eirpjqzzjo3&st=b6wfgbka&dl=0", "_blank");
           
         },
+      },{id: "post-workstations",
+        
+          title: "Workstations",
+        
+        description: "How to access group workstations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/notes/workstations/";
+          
+        },
+      },{id: "post-pdms-process",
+        
+          title: 'PDMS Process <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to make PDMS chips",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.dropbox.com/scl/fi/ovfp5intqaz0waqlpzo8v/SOP-PDMS-processing.docx?rlkey=b795ka9grbaxw78lxckr1n9xz&st=5le9yhb2&dl=0", "_blank");
+          
+        },
       },{id: "post-codes",
         
           title: "Codes",
@@ -141,28 +163,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://www.dropbox.com/scl/fi/mnun40r1wsjwhfd7bc3s0/SOP-Spectrofluorometer_Shimdazu.docx?rlkey=gzylnm0ulctfm74w5jm5izs3g&st=urf4rodt&dl=0", "_blank");
-          
-        },
-      },{id: "post-pdms-process",
-        
-          title: 'PDMS Process <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "How to make PDMS chips",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://www.dropbox.com/scl/fi/ovfp5intqaz0waqlpzo8v/SOP-PDMS-processing.docx?rlkey=b795ka9grbaxw78lxckr1n9xz&st=5le9yhb2&dl=0", "_blank");
-          
-        },
-      },{id: "post-workstations",
-        
-          title: "Workstations",
-        
-        description: "How to access group workstations",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/notes/workstations/";
           
         },
       },{id: "post-expectations",
