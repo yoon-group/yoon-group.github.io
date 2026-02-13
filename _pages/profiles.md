@@ -48,7 +48,7 @@ profiles:
   - align: right
 ---
 ### Group Alumni
-  - <a href="/people/alumni/madison"><strong>Madison Flint</strong></a> (Assistant Research Scientist, 2024-2025)
+  - <a href="/people/alumni/madison"><strong>Madison Flint</strong></a> (Assistant Research Scientist, 2024-2025): Currently at Florida DEP
 
 ---
 ### Beyond Bios
