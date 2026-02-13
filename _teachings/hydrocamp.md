@@ -1,7 +1,7 @@
 ---
 layout: course_hydrocamp 
 title: Hydrogeology Field Camp
-description: This intensive field- and lab-based course introduces students to groundwater flow, karst hydrogeology, and surface water-groundwater interactions through classroom instruction, laboratory exercises, and multi-day field investigations. Students will collect, analyze, and synthesize hydrogeologic and hydrochemical data into professional technical reports. 
+description: This 2-credit intensive field- and lab-based course introduces students to groundwater flow, karst hydrogeology, and surface water-groundwater interactions through classroom instruction, laboratory exercises, and multi-day field investigations. Students will collect, analyze, and synthesize hydrogeologic and hydrochemical data into professional technical reports. 
 instructor: Dr. Sean Yoon
 year: 2026
 term: Summer B
@@ -93,7 +93,7 @@ This course combines classroom lectures, laboratory practice, fieldwork, and tec
 - **Reports** integrate daily data and culminate in a final synthesis report. 
 
 ## Prerequisites
-- None, but background coursework in hydrology or hydrogeology is recommended.
+- None, but background coursework in hydrogeology and hydrochemistry is recommended.
 
 ## REQUIRED MATERIALS 
 - Field notebook (waterproof recommended) 
