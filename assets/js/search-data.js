@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/opening/";
           },
-        },{id: "post-lab-inventory",
+        },{id: "post-trace-metals",
+        
+          title: 'Trace Metals <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to collect samples for trace metals and As speciation procedure",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-SamplingTraceMetals.docx?d=w11deff14315548409dd3d6ad2e86990f&csf=1&web=1&e=B6Etcp", "_blank");
+          
+        },
+      },{id: "post-lab-inventory",
         
           title: 'Lab Inventory <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
