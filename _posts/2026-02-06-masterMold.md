@@ -8,5 +8,5 @@ categories: Geofluids_Lab
 giscus_comments: false
 related_posts: false
 pretty_table: true
-redirect: https://www.dropbox.com/scl/fi/swoyoiohme9cjycliigua/SOP-masterMold-Suex-thick.docx?rlkey=aqzpf1zgbrdl9a656p4hrbrk6&st=6s9ro73b&dl=0
+redirect: https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-masterMold%20(Suex%20thick).docx?d=wd727e172c5a944c0b7ec844597a33c3d&csf=1&web=1&e=b20QYX
 ---

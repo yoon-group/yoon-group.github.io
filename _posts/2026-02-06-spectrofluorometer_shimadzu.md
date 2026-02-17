@@ -8,5 +8,5 @@ categories: Quantitative_Hydrogeology_Lab
 giscus_comments: false
 related_posts: false
 pretty_table: true
-redirect: https://www.dropbox.com/scl/fi/mnun40r1wsjwhfd7bc3s0/SOP-Spectrofluorometer_Shimdazu.docx?rlkey=gzylnm0ulctfm74w5jm5izs3g&st=urf4rodt&dl=0
+redirect: https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-Spectrofluorometer_Shimdazu.docx?d=w8ba358c128b247d3a1b468640a32bca7&csf=1&web=1&e=lf0knj
 ---
