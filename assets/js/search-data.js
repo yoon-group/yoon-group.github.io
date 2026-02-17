@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/iawc1zfy6loulhr4k4cvp/SOP-GC.docx?rlkey=rwmem5x9e04ku5yh77ne11ag6&st=q372ry78&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-GC.docx?d=w619bfd09c68540838d554ef9e70a08f8&csf=1&web=1&e=L0uETE", "_blank");
           
         },
       },{id: "post-ysi",
@@ -85,7 +85,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/oo8a1fnsiz1y3deb6gbuf/SOP-YSI.docx?rlkey=85nxdzwqw1ga8eec5415illre&st=fb2gam7k&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-YSI.docx?d=w221c6f950ea74dba924ca374b3cfa3ea&csf=1&web=1&e=X9liol", "_blank");
           
         },
       },{id: "post-carbon-isotope-analysis",
@@ -96,7 +96,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/bffpuh44dw6jn39hausga/SOP-Picarro_carbon.docx?rlkey=a91fo19b12d1vf164sv139byv&st=88xqs0nk&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-Picarro_carbon.docx?d=w640ad35557a04469adc1bfccde3f115f&csf=1&web=1&e=oVH1MU", "_blank");
           
         },
       },{id: "post-ic",
@@ -107,7 +107,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/7jy396m23gvn4nob723fd/SOP-IC.docx?rlkey=lma6yidl4fkog0qu9enijyepr&st=3xbx4mfp&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-IC.docx?d=w06d47078a1d8402b811f8131d7b08252&csf=1&web=1&e=D5REpc", "_blank");
           
         },
       },{id: "post-master-mold-photolithography",
@@ -118,7 +118,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/swoyoiohme9cjycliigua/SOP-masterMold-Suex-thick.docx?rlkey=aqzpf1zgbrdl9a656p4hrbrk6&st=6s9ro73b&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-masterMold%20(Suex%20thick).docx?d=wd727e172c5a944c0b7ec844597a33c3d&csf=1&web=1&e=b20QYX", "_blank");
           
         },
       },{id: "post-carbon-pacekt-process",
@@ -129,7 +129,18 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/lfx4uwy2hy9ykp8ceallj/SOP-carbon-packet.docx?rlkey=k3hwumkzl9z1ouhgd1ygt96bp&st=oe8zgbm3&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-carbon%20packet.docx?d=w3e8b684053f14c5b999d8418fa89d4c8&csf=1&web=1&e=Jjc8Ya", "_blank");
+          
+        },
+      },{id: "post-uv-vis",
+        
+          title: 'UV-Vis <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How to operate UV-Vis",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-UV_Vis.docx?d=w3b79c4edb7a64c209f70df07c318cf57&csf=1&web=1&e=Zh3OvX", "_blank");
           
         },
       },{id: "post-aa3",
@@ -140,7 +151,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/8geidsrpzb6kyi02bpsmt/SOP-AA3.docx?rlkey=cup6ca16gb2gp1eirpjqzzjo3&st=b6wfgbka&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-AA3.docx?d=w425b604741ed48458ba12d77e2b2f33e&csf=1&web=1&e=3gYq3R", "_blank");
           
         },
       },{id: "post-workstations",
@@ -162,7 +173,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/ovfp5intqaz0waqlpzo8v/SOP-PDMS-processing.docx?rlkey=b795ka9grbaxw78lxckr1n9xz&st=5le9yhb2&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-PDMS%20processing.docx?d=w35dad7189fe344c380b845f07d4f03d1&csf=1&web=1&e=e2pEe5", "_blank");
           
         },
       },{id: "post-codes",
@@ -184,7 +195,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.dropbox.com/scl/fi/mnun40r1wsjwhfd7bc3s0/SOP-Spectrofluorometer_Shimdazu.docx?rlkey=gzylnm0ulctfm74w5jm5izs3g&st=urf4rodt&dl=0", "_blank");
+            window.open("https://uflorida-my.sharepoint.com/:w:/r/personal/yoon_s_ufl_edu/Documents/GroupNotes/SOP-Spectrofluorometer_Shimdazu.docx?d=w8ba358c128b247d3a1b468640a32bca7&csf=1&web=1&e=lf0knj", "_blank");
           
         },
       },{id: "post-expectations",
