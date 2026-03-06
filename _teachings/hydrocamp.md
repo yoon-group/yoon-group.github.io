@@ -89,7 +89,7 @@ Please fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScfp-
 This course combines classroom lectures, laboratory practice, fieldwork, and technical reporting. The course will meet either on campus (mostly in classrooms and laboratories) or at field sites.  
 - **Classroom Lectures** introduce theoretical concepts and field methods.  
 - **Laboratory practices** include sampling preparation, calibration, surveying, and data analysis.  
-- **Fieldwork** includes four full field days of groundwater, hydrochemical, and tracer investigations.  
+- **Fieldwork** includes four full field days of groundwater, hydrochemical, and tracer investigations. Students will meet in Williamson Hall in the morning and depart for the field sites (O’Leno State Park and River Rise State Preserve) using a Geological Sciences Department van.
 - **Reports** integrate daily data and culminate in a final synthesis report. 
 
 ## Prerequisites
@@ -105,5 +105,16 @@ This course combines classroom lectures, laboratory practice, fieldwork, and tec
 - Goldscheider, N., & Drew, D. (Eds.). (2007). Methods in karst hydrogeology: IAH: International Contributions to Hydrogeology, 26. 
 
 ## Grading
-- Assignments 1 - 8: 5 points each (40 total) 
+- Assignments 1 - 8: 5 points each (40 points total) 
 - Final Synthesis Report: 40 points 
+- Participation in fieldwork and lab activities: 20 points
+  - Attendance and punctuality (8 points)
+    - Attends all field and lab sessions and arrives prepared and on time.
+    - Minor absence/late arrival results in proportional deduction.
+  - Active engagement in field/lab tasks (6 points)
+    - Contributes to measurements, sampling, equipment setup, and data recording.
+    - Demonstrates initiative and willingness to assist team members.
+  - Preparation and adherence to safety protocols (3 points)
+    - Comes prepared with required materials and follows safety and field protocols.
+  - Teamwork and professionalism (3 points)
+    - Works collaboratively, communicates respectfully, and contributes to group progress.
