@@ -79,7 +79,7 @@ schedule:
 Please fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScfp-dQM_B6fcDFehKTF5diQE6y-H-6JAIRAsSzogJPsp0iQA/viewform?usp=header) to apply!
 
 ## Course Fee Support (Summer 2026)
-A $200 cost per student for course materials and supplies will be covered for all Geology majors enrolled in the Summer 2026 course through a scholarship made possible by alumni donations to the Department of Geological Sciences Foundation funds. This one-time financial support is intended to help launch the HydroCamp program. In future offerings of the course, the $200 materials and supplies fee will be incorporated into the standard course fee structure.
+A $200 cost per student for course materials and supplies will be covered for all Geology majors enrolled in the Summer 2026 course through a scholarship made possible by alumni donations to the Department of Geological Sciences Foundation funds. This one-time financial support is intended to help launch the HydroCamp program. In future offerings of the course, the materials and supplies fee will be incorporated into the standard course fee structure.
 
 ## Goals
 - Quantitatively interpret groundwater levels and construct potentiometric surface maps.
@@ -105,7 +105,7 @@ This course combines classroom lectures, laboratory practice, fieldwork, and tec
 - Refillable water bottle and sun/rain protection 
 
 ## Textbooks (optional)
-- Goldscheider, N., & Drew, D. (Eds.). (2007). Methods in karst hydrogeology: IAH: International Contributions to Hydrogeology, 26. 
+- Goldscheider, N., & Drew, D. (Eds.). (2007). Methods in karst hydrogeology: IAH: International Contributions to Hydrogeology, 26.  
 A useful reference for students interested in deeper background on field methods and concepts in karst hydrogeology.
 
 ## Grading
