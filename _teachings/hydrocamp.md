@@ -78,6 +78,13 @@ schedule:
 ## Application
 Please fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScfp-dQM_B6fcDFehKTF5diQE6y-H-6JAIRAsSzogJPsp0iQA/viewform?usp=header) to apply!
 
+## Course Fee Support (Summer 2026)
+For Summer 2026, a one-time departmental scholarship will cover the course materials and supplies fee (approximately **$200 per student**). This support is provided by the Department of Geological Sciences through departmental foundation funds to help launch the HydroCamp program.
+
+Students enrolled in the Summer 2026 offering will **not be required to pay this course materials fee.**
+
+Beginning in future offerings of the course, the materials and supplies fee will be incorporated into the standard course fee structure.
+
 ## Goals
 - Quantitatively interpret groundwater levels and construct potentiometric surface maps.
 - Understand well hydraulics and design, execute, and interpret aquifer and well tests.
