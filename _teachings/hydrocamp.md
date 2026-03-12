@@ -5,7 +5,7 @@ description: This 2-credit intensive field- and lab-based course introduces stud
 instructor: Dr. Sean Yoon
 year: 2026
 term: Summer B
-location: O’Leno State Park and River Rise State Preserve
+location: O’Leno State Park and River Rise State Preserve, and Williamson Hall on the UF campus.
 
 schedule:
   - date: Jul 20
@@ -79,11 +79,7 @@ schedule:
 Please fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScfp-dQM_B6fcDFehKTF5diQE6y-H-6JAIRAsSzogJPsp0iQA/viewform?usp=header) to apply!
 
 ## Course Fee Support (Summer 2026)
-For Summer 2026, a one-time departmental scholarship will cover the course materials and supplies fee (approximately **$200 per student**). This support is provided by the Department of Geological Sciences through departmental foundation funds to help launch the HydroCamp program.
-
-Students enrolled in the Summer 2026 offering will **not be required to pay this course materials fee.**
-
-Beginning in future offerings of the course, the materials and supplies fee will be incorporated into the standard course fee structure.
+A $200 cost per student for course materials and supplies will be covered for all Geology majors enrolled in the Summer 2026 course through a scholarship made possible by alumni donations to the Department of Geological Sciences Foundation funds. This one-time financial support is intended to help launch the HydroCamp program. In future offerings of the course, the $200 materials and supplies fee will be incorporated into the standard course fee structure.
 
 ## Goals
 - Quantitatively interpret groundwater levels and construct potentiometric surface maps.
@@ -104,12 +100,13 @@ This course combines classroom lectures, laboratory practice, fieldwork, and tec
 
 ## REQUIRED MATERIALS 
 - Field notebook (waterproof recommended) 
-- Laptop with QGIS and Excel installed 
+- Laptop with QGIS (free and open-source) and Microsoft Excel (available free to UF students through Microsoft 365) installed
 - Appropriate field clothing and footwear 
 - Refillable water bottle and sun/rain protection 
 
 ## Textbooks (optional)
 - Goldscheider, N., & Drew, D. (Eds.). (2007). Methods in karst hydrogeology: IAH: International Contributions to Hydrogeology, 26. 
+A useful reference for students interested in deeper background on field methods and concepts in karst hydrogeology.
 
 ## Grading
 - Assignments 1 - 8: 5 points each (40 points total) 
