@@ -1,0 +1,3 @@
+<strong>Madeline Kasper</strong>:
+Madeline is an undergraduate student in the Department of Geological Sciences at the University of Florida majoring in Environmental Geosciences with plans to get her Masters. She aims to pursue a career focused on water quality management and environmental conservation. As a Lab Assistant, Madeline supports the group by processing water samples, analyzing water quality, and measuring greenhouse gases in karst systems. She has enjoyed having the opportunity to expand her knowledge of natural processes, lab techniques, and how to operate analytical instruments such as gas chromatography. In her free time, Madeline enjoys baking, hiking, swimming, and reading.
+<br>
