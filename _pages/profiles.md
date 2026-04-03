@@ -46,6 +46,15 @@ profiles:
   #      <p>Your City, State 12345</p>
 
   - align: right
+    image: Madeline.jpg
+    content: about_madeline.md
+    image_circular: false # crops the image to make it circular
+  #    more_info: >
+  #      <p>555 your office number</p>
+  #      <p>123 your address street</p>
+  #      <p>Your City, State 12345</p>
+
+
 ---
 ### Group Alumni
   - <a href="/people/alumni/madison"><strong>Madison Flint</strong></a> (Assistant Research Scientist, 2024-2025): Currently at Florida DEP
