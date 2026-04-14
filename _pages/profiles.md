@@ -54,12 +54,15 @@ profiles:
   #      <p>123 your address street</p>
   #      <p>Your City, State 12345</p>
 
+  - 
 
 ---
+
 ### Group Alumni
   - <a href="/people/alumni/madison"><strong>Madison Flint</strong></a> (Assistant Research Scientist, 2024-2025): Currently at Florida DEP
 
 ---
+
 ### Beyond Bios
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
