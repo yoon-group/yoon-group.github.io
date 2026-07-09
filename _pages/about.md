@@ -45,11 +45,6 @@ Current research topics include:
 </ul>
 
 
-These research thems are pursued through two complementary laboratories:
-
-<p><em><u>Geofluids Lab</u></em> focuses on utilizing experimental methods to investigate biogeochemical processes within hydrogeologic systems at the micro-scale. This lab is equipped with instruments for microfluidic experiments and particle image velocimetry, enabling us to directly observe these processes in detail.</p>
-
-<p><em><u>Quantitative Hydrogeology Lab</u></em> leverages high-performance computational modeling and fluorescence spectroscopy to study flow and reactive transport processes across various scales, from the microscopic to the field level. This lab is equipped with high-performance workstations, instruments for fluorescence spectroscopy, and exclusive access to the supercomputing resources at UF HiPerGator.</p>
 
 </div>
 
