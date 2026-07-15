@@ -9,70 +9,71 @@ location: O’Leno State Park and River Rise State Preserve, and Williamson Hall
 
 schedule:
   - date: Jul 20
-    am: "**Lec 1**: orientation / field site intro / dye Tracing intro."
-    pm: "**Lab 1**: standard tracer sample production"
-    data: standard tracer sample scans 
-    due: "**A1**: tracer calibration curve"
+    am: "**Lec 1**: Orientation / Field Site Introduction / Dye Tracing Fundamentals"
+    pm: "**Lab 1**: Standard dye solution production"
+    data: Standard dye sample scans
+    due: "**Report 1**: Dye calibration curve"
 
   - date: Jul 21
-    am: "**Field 1**: dye injection / water table Measurments / diver deployment"
-    data: water level data / diver data
+    am: "**Field Day 1**: Dye injection / Field trip"
+    due: "**Report 2**: Hydrograph analysis"
 
   - date: Jul 22
-    am: "**Lec 2**: SW-GW interaction / nutrient cycling (Piper Diagram /  N<sub>2</sub>O / Water Isotope)"
-    pm: "**Lab 2**: Gas & water sampling practice"
-    data: tracer data (1/4)
-    due: "**A2**: Hydrograph analysis"
+    am: "**Lec 2**: Dissolved-gas quantification (headspace equilibration) / GC theory"
+    pm: "**Lab 2**: Instrument practice (GC) / N<sub>2</sub>O calibration curve estimation"
+    data: N<sub>2</sub>O standard scans
+    due: "**Report 3**: N<sub>2</sub>O calibration curve"
 
   - date: Jul 23
-    am: "**Field 2**: YSI / Hydrochemistry sampling / dye sample collection"
+    am: "**Field Day 2**: YSI calibration / Well water sampling / Dye sample collection"
 
   - date: Jul 24
-    am: "**Lec 3**: Instruments: IC, GC, Picarro, Fluorospectrometer"
-    pm: "**Lab 3**: Instrument practice (GC)"
-    data: tracer data (2/4) / N<sub>2</sub>O scans (std & field)
-    due: "**A3**: Well water level analysis"
+    am: "**Lec 3**: N<sub>2</sub>O cycling in karst / Water isotopes in hydrology"
+    pm: "**Lab 3**: N<sub>2</sub>O field sample processing"
+    data: N<sub>2</sub>O sample scans
+    due: "**Report 4**: YSI data analysis"
 
   - date: Jul 27
-    am: "**Lec 4**: Potentiometric mapping basics"
-    pm: "**Lab 4**: surveying practice on UF campus"
-    due: "**A4**: N<sub>2</sub>O STD & field data analysis"
+    am: "**Lec 4**: Well hydraulics"
+    pm: "**Lab 4**: Previous slug test data analysis (Well 3)"
+    due: "**Report 5**: N<sub>2</sub>O field data analysis"
 
   - date: Jul 28
-    am: "**Field 3**: Surveying / dye sample collection"
-    data: surveying data
+    am: "**Field Day 3**: Slug tests (Wells 4–7) / Water tape measurements / RTK survey / Dye sample collection"
+    data: Slug test data (Wells 4–7) / Water tape data / Diver data / Elevation (RTK) data
 
   - date: Jul 29
-    am: "**Lec 5**: Well hydraulics intro / Slug Test Intro"
-    pm: "**Lab 5**: slug test data processing practice"
-    data: tracer data (3/4)
-    due: "**A5**: Potentiometric map analysis"
+    am: "**Lec 5**: Stream flow gauging"
+    pm: "**Lab 5**: Previous stream flow gauging data analysis"
+    due: "**Report 6**: Slug test analysis / Well water table analysis"
 
   - date: Jul 30
-    am: "**Field 4**: Slug Test /dye sample collection"
-    data: slug test data
+    am: "**Field Day 4**: Stream gauging / Dye sample collection"
+    data: Stream gauging data
 
   - date: Jul 31
-    am: "**Lec 6**: DOM spectroscopy"
-    pm: "**Lab 6**: CDOM / FDOM data acquisition"
-    data: tracer data (4/4) / CDOM & FDOM
-    due: "**A6**: slug test analysis"
+    am: "**Lec 6**: Fluorescence spectroscopy"
+    pm: "**Lab 6**: Dye field sample scanning (Shimadzu RF-6000)"
+    data: Dye spectral data (Field Days 1–4)
+    due: "**Report 7**: Stream flow analysis"
 
   - date: Aug 3
-    am: "**Lec 7**: isotopes in hydrology"
-    data: water isotope data
-    due: "**A7**: CDOM/FDOM analysis"
+    am: "**Lec 7**: Spectral deconvolution theory"
+    pm: "**Lab 7**: Spectral deconvolution practice (Python)"
+    data: Deconvoluted spectral data (Field Days 1–4 samples)
 
-  - date: Aug 4 
-    am: "**Lec 8**: River discharge estimation"
-    due: "**A8**: Water isotope analysis"
+  - date: Aug 4
+    am: "**Field Day 5**: Dye sample collection / Field gear wrap-up"
+    data: Water isotope data
 
   - date: Aug 5
-    am: "work on final report"
+    am: "Work on Report 8"
+    data: Deconvoluted spectral data (Field Day 5 samples)
+    due: "**Report 8**: Breakthrough curve analysis"
 
-  - date: Aug 6 
-    am: "work on final report"
-    due: "**Final report** on SW-GW interaction"
+  - date: Aug 6
+    am: "Work on Final Report"
+    due: "**Final Report**"
 
 ---
 ## Application
