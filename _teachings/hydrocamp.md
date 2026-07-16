@@ -12,17 +12,17 @@ schedule:
     am: "**Lec 1**: Orientation / Field Site Introduction / Dye Tracing Fundamentals"
     pm: "**Lab 1**: Standard dye solution production"
     data: Standard dye sample scans
-    due: "**Report 1**: Dye calibration curve"
+    due: "[**Report 1**: Dye calibration curve](https://www.dropbox.com/scl/fi/1pvh79mw8pzee1caeljns/Report-1_calibration_curve_dye.docx?rlkey=ylm5f936rlii7dlnjudr8oxj8&st=hj8ne82d&dl=0)"
 
   - date: Jul 21
     am: "**Field Day 1**: Dye injection / Field trip"
-    due: "**Report 2**: Hydrograph analysis"
+    due: "[**Report 2**: Hydrograph analysis](https://www.dropbox.com/scl/fi/igvttjsaopn3xpnxi7dq1/Report-2_hydrograph.docx?rlkey=zetr4zm5phu3moy7hh5czovi1&st=pyd9n0qp&dl=0)"
 
   - date: Jul 22
     am: "**Lec 2**: Dissolved-gas quantification (headspace equilibration) / GC theory"
     pm: "**Lab 2**: Instrument practice (GC) / N<sub>2</sub>O calibration curve estimation"
     data: N<sub>2</sub>O standard scans
-    due: "**Report 3**: N<sub>2</sub>O calibration curve"
+    due: "[**Report 3**: N<sub>2</sub>O calibration curve](https://www.dropbox.com/scl/fi/bq9xzdx8p5kpr14jvtzah/Report-3_calibration_curve_N2O.docx?rlkey=2a8qpap7fyk6j27gk8t1jrre5&st=hfjaif6s&dl=0)"
 
   - date: Jul 23
     am: "**Field Day 2**: YSI calibration / Well water sampling / Dye sample collection"
@@ -31,12 +31,12 @@ schedule:
     am: "**Lec 3**: N<sub>2</sub>O cycling in karst / Water isotopes in hydrology"
     pm: "**Lab 3**: N<sub>2</sub>O field sample processing"
     data: N<sub>2</sub>O sample scans
-    due: "**Report 4**: YSI data analysis"
+    due: "[**Report 4**: YSI data analysis](https://www.dropbox.com/scl/fi/9arp9jtodqww2rhg86hmd/Report-4_YSI.docx?rlkey=v7edwwhjyjxi8f3qkf4rkcde0&st=f2e8502r&dl=0)"
 
   - date: Jul 27
     am: "**Lec 4**: Well hydraulics"
     pm: "**Lab 4**: Previous slug test data analysis (Well 3)"
-    due: "**Report 5**: N<sub>2</sub>O field data analysis"
+    due: "[**Report 5**: N<sub>2</sub>O field data analysis](https://www.dropbox.com/scl/fi/oyjykb05ytiv4dmcxhvx4/Report-5_field_N2O.docx?rlkey=l5lprhrcweme3rt1g76qd50dg&st=eazhxw68&dl=0)"
 
   - date: Jul 28
     am: "**Field Day 3**: Slug tests (Wells 4–7) / Water tape measurements / RTK survey / Dye sample collection"
@@ -45,7 +45,7 @@ schedule:
   - date: Jul 29
     am: "**Lec 5**: Stream flow gauging"
     pm: "**Lab 5**: Previous stream flow gauging data analysis"
-    due: "**Report 6**: Slug test analysis / Well water table analysis"
+    due: "[**Report 6**: Slug test analysis / Well water table analysis](https://www.dropbox.com/scl/fi/0b3dhn4lgn0dpws2gacvy/Report-6_slug_test.docx?rlkey=nkhegn0kihxy0yiv6ky20cjom&st=atqwlyve&dl=0)"
 
   - date: Jul 30
     am: "**Field Day 4**: Stream gauging / Dye sample collection"
@@ -55,7 +55,7 @@ schedule:
     am: "**Lec 6**: Fluorescence spectroscopy"
     pm: "**Lab 6**: Dye field sample scanning (Shimadzu RF-6000)"
     data: Dye spectral data (Field Days 1–4)
-    due: "**Report 7**: Stream flow analysis"
+    due: "[**Report 7**: Stream flow analysis](https://www.dropbox.com/scl/fi/r2o71xc2w1to2vxuvhv1j/Report-7_stream_flow_gauging.docx?rlkey=bn92pvnzugenjbe812i21z9d3&st=8bi3lxe2&dl=0)"
 
   - date: Aug 3
     am: "**Lec 7**: Spectral deconvolution theory"
@@ -69,11 +69,11 @@ schedule:
   - date: Aug 5
     am: "Work on Report 8"
     data: Deconvoluted spectral data (Field Day 5 samples)
-    due: "**Report 8**: Breakthrough curve analysis"
+    due: "[**Report 8**: Breakthrough curve analysis](https://www.dropbox.com/scl/fi/qxadoeqvsi1brtq3ja414/Report-8_breakthrough_cuve.docx?rlkey=rju9evpiia77s3u07cvon2iy2&st=vei11m22&dl=0)"
 
   - date: Aug 6
     am: "Work on Final Report"
-    due: "**Final Report**"
+    due: "[**Final Report**](https://www.dropbox.com/scl/fi/4wkphtv76lv7kgkv2vpxl/Final-report.docx?rlkey=nxurqz6nisq2zh9vu727sv48h&st=omnem8ya&dl=0)"
 
 ---
 ## Application
