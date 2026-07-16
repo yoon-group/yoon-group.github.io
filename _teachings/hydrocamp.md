@@ -25,6 +25,7 @@ schedule:
 
   - date: Jul 23
     am: "**Field Day 2**: YSI calibration / Well water sampling / Dye sample collection"
+    data: YSI readings
     due: "[**Report 3**: N<sub>2</sub>O calibration curve](https://www.dropbox.com/scl/fi/bq9xzdx8p5kpr14jvtzah/Report-3_calibration_curve_N2O.docx?rlkey=2a8qpap7fyk6j27gk8t1jrre5&st=hfjaif6s&dl=0)"
 
   - date: Jul 24
@@ -36,15 +37,17 @@ schedule:
   - date: Jul 27
     am: "**Lec 4**: Well hydraulics"
     pm: "**Lab 4**: Previous slug test data analysis (Well 3)"
+    data: Previous slug test data
     due: "[**Report 5**: N<sub>2</sub>O field data analysis](https://www.dropbox.com/scl/fi/oyjykb05ytiv4dmcxhvx4/Report-5_field_N2O.docx?rlkey=l5lprhrcweme3rt1g76qd50dg&st=eazhxw68&dl=0)"
 
   - date: Jul 28
     am: "**Field Day 3**: Slug tests (Wells 4–7) / Water tape measurements / RTK survey / Dye sample collection"
-    data: Slug test data (Wells 4–7) / Water tape data / Diver data / Elevation (RTK) data
+    data: Slug test data (Wells 4,7) / Water tape data / Diver data / Elevation (RTK) data
 
   - date: Jul 29
     am: "**Lec 5**: Stream flow gauging"
     pm: "**Lab 5**: Previous stream flow gauging data analysis"
+    data: Water isotope data 
     due: "[**Report 6**: Slug test analysis / Well water table analysis](https://www.dropbox.com/scl/fi/0b3dhn4lgn0dpws2gacvy/Report-6_slug_test.docx?rlkey=nkhegn0kihxy0yiv6ky20cjom&st=atqwlyve&dl=0)"
 
   - date: Jul 30
@@ -64,7 +67,7 @@ schedule:
 
   - date: Aug 4
     am: "**Field Day 5**: Dye sample collection / Field gear wrap-up"
-    data: Water isotope data
+    data: Deconvoluted spectral data (Field Day 5 samples)
 
   - date: Aug 5
     am: "Work on Report 8"
