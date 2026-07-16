@@ -12,20 +12,20 @@ schedule:
     am: "**Lec 1**: Orientation / Field Site Introduction / Dye Tracing Fundamentals"
     pm: "**Lab 1**: Standard dye solution production"
     data: Standard dye sample scans
-    due: "[**Report 1**: Dye calibration curve](https://www.dropbox.com/scl/fi/1pvh79mw8pzee1caeljns/Report-1_calibration_curve_dye.docx?rlkey=ylm5f936rlii7dlnjudr8oxj8&st=hj8ne82d&dl=0)"
+    due: "[**Report 1**: Hydrograph analysis](https://www.dropbox.com/scl/fi/igvttjsaopn3xpnxi7dq1/Report-1_hydrograph.docx?rlkey=zetr4zm5phu3moy7hh5czovi1&st=avn9limx&dl=0)"
 
   - date: Jul 21
     am: "**Field Day 1**: Dye injection / Field trip"
-    due: "[**Report 2**: Hydrograph analysis](https://www.dropbox.com/scl/fi/igvttjsaopn3xpnxi7dq1/Report-2_hydrograph.docx?rlkey=zetr4zm5phu3moy7hh5czovi1&st=pyd9n0qp&dl=0)"
+    due: "[**Report 2**: Dye calibration curve](https://www.dropbox.com/scl/fi/1pvh79mw8pzee1caeljns/Report-2_calibration_curve_dye.docx?rlkey=ylm5f936rlii7dlnjudr8oxj8&st=gx9a1zo3&dl=0)"
 
   - date: Jul 22
     am: "**Lec 2**: Dissolved-gas quantification (headspace equilibration) / GC theory"
     pm: "**Lab 2**: Instrument practice (GC) / N<sub>2</sub>O calibration curve estimation"
     data: N<sub>2</sub>O standard scans
-    due: "[**Report 3**: N<sub>2</sub>O calibration curve](https://www.dropbox.com/scl/fi/bq9xzdx8p5kpr14jvtzah/Report-3_calibration_curve_N2O.docx?rlkey=2a8qpap7fyk6j27gk8t1jrre5&st=hfjaif6s&dl=0)"
 
   - date: Jul 23
     am: "**Field Day 2**: YSI calibration / Well water sampling / Dye sample collection"
+    due: "[**Report 3**: N<sub>2</sub>O calibration curve](https://www.dropbox.com/scl/fi/bq9xzdx8p5kpr14jvtzah/Report-3_calibration_curve_N2O.docx?rlkey=2a8qpap7fyk6j27gk8t1jrre5&st=hfjaif6s&dl=0)"
 
   - date: Jul 24
     am: "**Lec 3**: N<sub>2</sub>O cycling in karst / Water isotopes in hydrology"
