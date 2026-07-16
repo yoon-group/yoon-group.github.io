@@ -86,7 +86,7 @@ A $200 cost per student for course materials and supplies will be covered for al
 - Quantitatively interpret groundwater levels and construct potentiometric surface maps.
 - Understand well hydraulics and design, execute, and interpret aquifer and well tests.
 - Design and conduct dye-tracing and hydrogeochemical field investigations.
-- Analyze fluorescence, ion chromatography (IC), gas chromatography (GC), isotopic, and in situ sensor datasets.
+- Analyze fluorescence, gas chromatography (GC), isotopic, and in situ sensor datasets.
 - Synthesize multi-source datasets into clear, professional technical reports.
 
 ## Format
@@ -101,7 +101,7 @@ This course combines classroom lectures, laboratory practice, fieldwork, and tec
 
 ## REQUIRED MATERIALS 
 - Field notebook (waterproof recommended) 
-- Laptop with QGIS (free and open-source) and Microsoft Excel (available free to UF students through Microsoft 365) installed
+- Laptop with Microsoft Excel (available free to UF students through Microsoft 365) installed
 - Appropriate field clothing and footwear 
 - Refillable water bottle and sun/rain protection 
 
