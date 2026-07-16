@@ -126,3 +126,5 @@ A useful reference for students interested in deeper background on field methods
     - Comes prepared with required materials and follows safety and field protocols.
   - Teamwork and professionalism (3 points)
     - Works collaboratively, communicates respectfully, and contributes to group progress.
+
+## [Schedule (for Instructors)](https://www.dropbox.com/scl/fi/otj5ujf0shiwr1b31c5xm/2026-Daily-Schedule.xlsx?rlkey=22d770yy03hds5diwa1wqew0o&st=p7v3u4o7&dl=0)
