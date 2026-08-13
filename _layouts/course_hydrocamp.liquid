@@ -1,7 +1,14 @@
 ---
-layout: page
+layout: default 
 ---
+
 <div class="course">
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">Hydrogeology Field Camp</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
   {% if page.instructor or page.term or page.location or page.time %}
     <div class="course-info">
       {% if page.instructor %}
@@ -77,4 +84,30 @@ layout: page
       </tbody>
     </table>
   {% endif %}
+
+  {% if page.cohort_images %}
+    <h2>Previous Cohorts</h2>
+
+    <swiper-container
+      keyboard="true"
+      navigation="true"
+      pagination="true"
+      pagination-clickable="true"
+      pagination-dynamic-bullets="true"
+      rewind="true">
+
+      {% for image in page.cohort_images %}
+        <swiper-slide>
+          {% include figure.liquid
+            loading="eager"
+            path=image
+            class="img-fluid rounded z-depth-1"
+          %}
+        </swiper-slide>
+      {% endfor %}
+
+    </swiper-container>
+  {% endif %}
+
+</div>
 </div>
