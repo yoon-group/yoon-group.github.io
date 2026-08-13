@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Tentative Course Plans",
+        },{id: "nav-hydrocamp",
+          title: "Hydrocamp",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/hydrocamp/";
           },
         },{id: "nav-notes",
           title: "Notes",
